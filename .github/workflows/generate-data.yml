@@ -5,7 +5,7 @@ on:
     branches: [ "main" ]
 
 jobs:
-  getdataandrefreshmap:
+  generate-data-file:
     runs-on: ubuntu-latest
     steps:
       - name: checkout repo content
