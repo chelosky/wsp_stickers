@@ -1,6 +1,8 @@
 name: Generate data json
 
 on:
+  schedule:
+    - cron: "30 2 * * *"    #runs at 2:30 UTC everyday
   push:
     branches: [ "main" ]
 
