@@ -1,7 +1,7 @@
 import os
 import json
 
-BASE_URL = 'https://raw.githubusercontent.com/chelosky/wsp_stickers/main';
+BASE_URL = 'https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers';
 STICKERS_NAME = {
     'nagatoro': "Please Don't Bully Me, Nagatoro"
 }
