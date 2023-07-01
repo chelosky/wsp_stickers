@@ -27,7 +27,8 @@ def generate_data():
             file_path = sticker_pack.get('path')
             del sticker_pack['path']
             generate_json_file(file_path, sticker_pack)
-        
+
+        app_pack['id'] = app_pack.get('name')
         app_pack['name'] = STICKERS_NAME.get(app_pack.get('name'))
         original_sticker_packs = list(sticker_packs)
         app_pack['packs'] = list(map(map_to_app_file, sticker_packs))
