@@ -23,6 +23,7 @@
         "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/12/20.webp"
     ],
     "icon": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/12/icon.png",
-    "name": "Nagatoro PACK 12",
+    "animated": false,
+    "name": "Nagatoro Pack 12",
     "alternativeId": "nagatoro_12"
 }
