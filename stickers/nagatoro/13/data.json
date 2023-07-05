@@ -25,5 +25,5 @@
     "icon": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/13/icon.png",
     "animated": false,
     "name": "Nagatoro Pack 13",
-    "alternativeId": "nagatoro_13"
+    "packageId": "nagatoro_13"
 }
