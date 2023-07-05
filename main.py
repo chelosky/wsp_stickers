@@ -25,7 +25,7 @@ def generate_data():
             sticker_pack['icon'] = icon
             sticker_pack['animated'] = os.path.isfile(os.path.join(sticker_pack.get('path'), ANIMATED_PACK_FILE_NAME))
             sticker_pack['name'] = "{sticker_pack_name} Pack {pack_id}".format(sticker_pack_name=app_pack.get('name').capitalize(), pack_id=sticker_pack.get('id'))
-            sticker_pack['packageId'] =  "{sticker_pack_name}_{pack_id}".format(sticker_pack_name=app_pack.get('name').lower(), pack_id=sticker_pack.get('id'))
+            sticker_pack['packId'] =  "{sticker_pack_name}_{pack_id}".format(sticker_pack_name=app_pack.get('name').lower(), pack_id=sticker_pack.get('id'))
             sticker_pack['id'] =  int(sticker_pack.get('id'))
             file_path = sticker_pack.get('path')
             del sticker_pack['path']
