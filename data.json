@@ -30,7 +30,7 @@
                 "icon": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/1/icon.png",
                 "animated": false,
                 "name": "Nagatoro Pack 1",
-                "packageId": "nagatoro_1"
+                "packId": "nagatoro_1"
             },
             {
                 "id": 2,
@@ -59,7 +59,7 @@
                 "icon": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/2/icon.png",
                 "animated": false,
                 "name": "Nagatoro Pack 2",
-                "packageId": "nagatoro_2"
+                "packId": "nagatoro_2"
             },
             {
                 "id": 3,
@@ -88,7 +88,7 @@
                 "icon": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/3/icon.png",
                 "animated": false,
                 "name": "Nagatoro Pack 3",
-                "packageId": "nagatoro_3"
+                "packId": "nagatoro_3"
             },
             {
                 "id": 4,
@@ -120,7 +120,7 @@
                 "icon": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/4/icon.png",
                 "animated": false,
                 "name": "Nagatoro Pack 4",
-                "packageId": "nagatoro_4"
+                "packId": "nagatoro_4"
             },
             {
                 "id": 5,
@@ -149,7 +149,7 @@
                 "icon": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/5/icon.png",
                 "animated": false,
                 "name": "Nagatoro Pack 5",
-                "packageId": "nagatoro_5"
+                "packId": "nagatoro_5"
             },
             {
                 "id": 6,
@@ -178,7 +178,7 @@
                 "icon": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/6/icon.png",
                 "animated": false,
                 "name": "Nagatoro Pack 6",
-                "packageId": "nagatoro_6"
+                "packId": "nagatoro_6"
             },
             {
                 "id": 7,
@@ -207,7 +207,7 @@
                 "icon": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/7/icon.png",
                 "animated": false,
                 "name": "Nagatoro Pack 7",
-                "packageId": "nagatoro_7"
+                "packId": "nagatoro_7"
             },
             {
                 "id": 8,
@@ -236,7 +236,7 @@
                 "icon": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/8/icon.png",
                 "animated": false,
                 "name": "Nagatoro Pack 8",
-                "packageId": "nagatoro_8"
+                "packId": "nagatoro_8"
             },
             {
                 "id": 9,
@@ -265,7 +265,7 @@
                 "icon": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/9/icon.png",
                 "animated": false,
                 "name": "Nagatoro Pack 9",
-                "packageId": "nagatoro_9"
+                "packId": "nagatoro_9"
             },
             {
                 "id": 10,
@@ -294,7 +294,7 @@
                 "icon": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/10/icon.png",
                 "animated": false,
                 "name": "Nagatoro Pack 10",
-                "packageId": "nagatoro_10"
+                "packId": "nagatoro_10"
             },
             {
                 "id": 11,
@@ -323,7 +323,7 @@
                 "icon": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/11/icon.png",
                 "animated": false,
                 "name": "Nagatoro Pack 11",
-                "packageId": "nagatoro_11"
+                "packId": "nagatoro_11"
             },
             {
                 "id": 12,
@@ -352,7 +352,7 @@
                 "icon": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/12/icon.png",
                 "animated": false,
                 "name": "Nagatoro Pack 12",
-                "packageId": "nagatoro_12"
+                "packId": "nagatoro_12"
             },
             {
                 "id": 13,
@@ -381,7 +381,7 @@
                 "icon": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/13/icon.png",
                 "animated": false,
                 "name": "Nagatoro Pack 13",
-                "packageId": "nagatoro_13"
+                "packId": "nagatoro_13"
             },
             {
                 "id": 14,
@@ -410,7 +410,7 @@
                 "icon": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/14/icon.png",
                 "animated": false,
                 "name": "Nagatoro Pack 14",
-                "packageId": "nagatoro_14"
+                "packId": "nagatoro_14"
             },
             {
                 "id": 15,
@@ -440,7 +440,7 @@
                 "icon": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/15/icon.png",
                 "animated": false,
                 "name": "Nagatoro Pack 15",
-                "packageId": "nagatoro_15"
+                "packId": "nagatoro_15"
             }
         ]
     }
