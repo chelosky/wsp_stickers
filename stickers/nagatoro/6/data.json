@@ -1,26 +1,86 @@
 {
     "id": 6,
     "stickers": [
-        "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/6/1.webp",
-        "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/6/2.webp",
-        "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/6/3.webp",
-        "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/6/4.webp",
-        "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/6/5.webp",
-        "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/6/6.webp",
-        "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/6/7.webp",
-        "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/6/8.webp",
-        "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/6/9.webp",
-        "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/6/10.webp",
-        "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/6/11.webp",
-        "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/6/12.webp",
-        "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/6/13.webp",
-        "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/6/14.webp",
-        "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/6/15.webp",
-        "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/6/16.webp",
-        "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/6/17.webp",
-        "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/6/18.webp",
-        "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/6/19.webp",
-        "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/6/20.webp"
+        {
+            "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/6/1.webp",
+            "size": 31.992
+        },
+        {
+            "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/6/2.webp",
+            "size": 44.6
+        },
+        {
+            "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/6/3.webp",
+            "size": 34.014
+        },
+        {
+            "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/6/4.webp",
+            "size": 33.956
+        },
+        {
+            "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/6/5.webp",
+            "size": 26.022
+        },
+        {
+            "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/6/6.webp",
+            "size": 29.6
+        },
+        {
+            "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/6/7.webp",
+            "size": 33.206
+        },
+        {
+            "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/6/8.webp",
+            "size": 29.146
+        },
+        {
+            "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/6/9.webp",
+            "size": 24.298
+        },
+        {
+            "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/6/10.webp",
+            "size": 34.232
+        },
+        {
+            "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/6/11.webp",
+            "size": 43.196
+        },
+        {
+            "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/6/12.webp",
+            "size": 35.092
+        },
+        {
+            "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/6/13.webp",
+            "size": 30.04
+        },
+        {
+            "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/6/14.webp",
+            "size": 37.062
+        },
+        {
+            "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/6/15.webp",
+            "size": 40.466
+        },
+        {
+            "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/6/16.webp",
+            "size": 34.31
+        },
+        {
+            "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/6/17.webp",
+            "size": 28.152
+        },
+        {
+            "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/6/18.webp",
+            "size": 25.176
+        },
+        {
+            "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/6/19.webp",
+            "size": 26.48
+        },
+        {
+            "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/6/20.webp",
+            "size": 34.992
+        }
     ],
     "icon": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/6/icon.png",
     "animated": false,
