@@ -19,10 +19,12 @@ def generate_data():
         
         for sticker_pack in sticker_packs:
             base_sticker_url = '/'.join([BASE_URL, app_pack.get('name'), sticker_pack.get('id')])
-            stickers = [ { 'url': '/'.join([base_sticker_url, name]), 'size': os.stat(os.path.join(sticker_pack.get('path'), name)).st_size } for name in os.listdir(sticker_pack.get('path')) if name.split('.')[-1] == 'webp']
+            version = next(iter([ name.replace('.version', '') for name in os.listdir(sticker_pack.get('path')) if name.endswith('.version')]), None)
+            stickers = [ { 'url': '/'.join([base_sticker_url, name]), 'size': os.stat(os.path.join(sticker_pack.get('path'), name)).st_size } for name in os.listdir(sticker_pack.get('path')) if name.endswith(".webp")]
             icon = '/'.join([base_sticker_url, 'icon.png'])
             sticker_pack['stickers'] = sorted(stickers, key=lambda x: int(x.get('url').split('/')[-1].split('.')[0]))
             sticker_pack['icon'] = icon
+            sticker_pack['version'] = version if version != None else '1.0.0'
             sticker_pack['animated'] = os.path.isfile(os.path.join(sticker_pack.get('path'), ANIMATED_PACK_FILE_NAME))
             sticker_pack['name'] = "{sticker_pack_name} Pack {pack_id}".format(sticker_pack_name=app_pack.get('name').capitalize(), pack_id=sticker_pack.get('id'))
             sticker_pack['packId'] =  "{sticker_pack_name}_{pack_id}".format(sticker_pack_name=app_pack.get('name').lower(), pack_id=sticker_pack.get('id'))
