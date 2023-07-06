@@ -95,6 +95,7 @@
         }
     ],
     "icon": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/4/icon.png",
+    "version": "1.0.0",
     "animated": false,
     "name": "Nagatoro Pack 4",
     "packId": "nagatoro_4"

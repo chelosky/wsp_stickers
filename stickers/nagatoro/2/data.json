@@ -83,6 +83,7 @@
         }
     ],
     "icon": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/2/icon.png",
+    "version": "1.0.0",
     "animated": false,
     "name": "Nagatoro Pack 2",
     "packId": "nagatoro_2"
