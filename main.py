@@ -5,7 +5,6 @@ BASE_URL = 'https://raw.githubusercontent.com/chelosky/wsp_stickers/main/sticker
 STICKERS_NAME = {
     'nagatoro': "Please Don't Bully Me, Nagatoro"
 }
-MEGABYTES = 1000
 ANIMATED_PACK_FILE_NAME = 'is_animated.dmy'
 STICKER_FOLDER = 'stickers';
 JSON_FILE_NAME = 'data.json'
@@ -20,7 +19,7 @@ def generate_data():
         
         for sticker_pack in sticker_packs:
             base_sticker_url = '/'.join([BASE_URL, app_pack.get('name'), sticker_pack.get('id')])
-            stickers = [ { 'url': '/'.join([base_sticker_url, name]), 'size': os.stat(os.path.join(sticker_pack.get('path'), name)).st_size/MEGABYTES } for name in os.listdir(sticker_pack.get('path')) if name.split('.')[-1] == 'webp']
+            stickers = [ { 'url': '/'.join([base_sticker_url, name]), 'size': os.stat(os.path.join(sticker_pack.get('path'), name)).st_size } for name in os.listdir(sticker_pack.get('path')) if name.split('.')[-1] == 'webp']
             icon = '/'.join([base_sticker_url, 'icon.png'])
             sticker_pack['stickers'] = sorted(stickers, key=lambda x: int(x.get('url').split('/')[-1].split('.')[0]))
             sticker_pack['icon'] = icon
