@@ -1368,6 +1368,36 @@
                 "animated": false,
                 "name": "Nagatoro Pack 15",
                 "packId": "nagatoro_15"
+            },
+            {
+                "id": 16,
+                "stickers": [
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/16/1.webp",
+                        "size": 101822
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/16/2.webp",
+                        "size": 56254
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/16/3.webp",
+                        "size": 59716
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/16/4.webp",
+                        "size": 56254
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/16/5.webp",
+                        "size": 59716
+                    }
+                ],
+                "icon": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/16/icon.png",
+                "version": "1.0.0",
+                "animated": true,
+                "name": "Nagatoro Pack 16",
+                "packId": "nagatoro_16"
             }
         ]
     }
