@@ -94,6 +94,7 @@
                 "packId": "nagatoro-1",
                 "downloads": 16,
                 "voteCount": 17,
+                "voteSum": 68,
                 "voteAverage": 4.0
             },
             {
@@ -187,6 +188,7 @@
                 "packId": "nagatoro-2",
                 "downloads": 0,
                 "voteCount": 0,
+                "voteSum": 0,
                 "voteAverage": 0.0
             },
             {
@@ -280,6 +282,7 @@
                 "packId": "nagatoro-3",
                 "downloads": 0,
                 "voteCount": 0,
+                "voteSum": 0,
                 "voteAverage": 0.0
             },
             {
@@ -385,6 +388,7 @@
                 "packId": "nagatoro-4",
                 "downloads": 0,
                 "voteCount": 0,
+                "voteSum": 0,
                 "voteAverage": 0.0
             },
             {
@@ -478,6 +482,7 @@
                 "packId": "nagatoro-5",
                 "downloads": 20,
                 "voteCount": 0,
+                "voteSum": 0,
                 "voteAverage": 0.0
             },
             {
@@ -571,6 +576,7 @@
                 "packId": "nagatoro-6",
                 "downloads": 2,
                 "voteCount": 0,
+                "voteSum": 0,
                 "voteAverage": 0.0
             },
             {
@@ -664,6 +670,7 @@
                 "packId": "nagatoro-7",
                 "downloads": 1,
                 "voteCount": 0,
+                "voteSum": 0,
                 "voteAverage": 0.0
             },
             {
@@ -757,6 +764,7 @@
                 "packId": "nagatoro-8",
                 "downloads": 0,
                 "voteCount": 0,
+                "voteSum": 0,
                 "voteAverage": 0.0
             },
             {
@@ -850,6 +858,7 @@
                 "packId": "nagatoro-9",
                 "downloads": 0,
                 "voteCount": 0,
+                "voteSum": 0,
                 "voteAverage": 0.0
             },
             {
@@ -943,6 +952,7 @@
                 "packId": "nagatoro-10",
                 "downloads": 0,
                 "voteCount": 0,
+                "voteSum": 0,
                 "voteAverage": 0.0
             },
             {
@@ -1036,6 +1046,7 @@
                 "packId": "nagatoro-11",
                 "downloads": 0,
                 "voteCount": 0,
+                "voteSum": 0,
                 "voteAverage": 0.0
             },
             {
@@ -1129,6 +1140,7 @@
                 "packId": "nagatoro-12",
                 "downloads": 0,
                 "voteCount": 0,
+                "voteSum": 0,
                 "voteAverage": 0.0
             },
             {
@@ -1222,6 +1234,7 @@
                 "packId": "nagatoro-13",
                 "downloads": 0,
                 "voteCount": 0,
+                "voteSum": 0,
                 "voteAverage": 0.0
             },
             {
@@ -1315,6 +1328,7 @@
                 "packId": "nagatoro-14",
                 "downloads": 0,
                 "voteCount": 0,
+                "voteSum": 0,
                 "voteAverage": 0.0
             },
             {
@@ -1412,6 +1426,7 @@
                 "packId": "nagatoro-15",
                 "downloads": 0,
                 "voteCount": 0,
+                "voteSum": 0,
                 "voteAverage": 0.0
             },
             {
@@ -1445,6 +1460,7 @@
                 "packId": "nagatoro-16",
                 "downloads": 0,
                 "voteCount": 0,
+                "voteSum": 0,
                 "voteAverage": 0.0
             }
         ]
