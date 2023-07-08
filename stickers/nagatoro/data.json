@@ -31,9 +31,9 @@
             "animated": false,
             "name": "Nagatoro Pack 1",
             "packId": "nagatoro-1",
-            "downloads": 15,
-            "voteCount": 10,
-            "voteAverage": 4.2
+            "downloads": 16,
+            "voteCount": 17,
+            "voteAverage": 4.0
         },
         {
             "id": 2,
@@ -163,7 +163,7 @@
             "animated": false,
             "name": "Nagatoro Pack 5",
             "packId": "nagatoro-5",
-            "downloads": 0,
+            "downloads": 20,
             "voteCount": 0,
             "voteAverage": 0.0
         },
@@ -196,7 +196,7 @@
             "animated": false,
             "name": "Nagatoro Pack 6",
             "packId": "nagatoro-6",
-            "downloads": 0,
+            "downloads": 2,
             "voteCount": 0,
             "voteAverage": 0.0
         },
@@ -229,7 +229,7 @@
             "animated": false,
             "name": "Nagatoro Pack 7",
             "packId": "nagatoro-7",
-            "downloads": 0,
+            "downloads": 1,
             "voteCount": 0,
             "voteAverage": 0.0
         },
