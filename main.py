@@ -30,6 +30,7 @@ def generate_data(redisClient):
             icon = '/'.join([base_sticker_url, 'icon.png'])
             sticker_pack['stickers'] = sorted(stickers, key=lambda x: int(x.get('url').split('/')[-1].split('.')[0]))
             sticker_pack['icon'] = icon
+            sticker_pack['active'] = True
             sticker_pack['version'] = version if version != None else '1.0.0'
             sticker_pack['animated'] = os.path.isfile(os.path.join(sticker_pack.get('path'), ANIMATED_PACK_FILE_NAME))
             name = "{sticker_pack_name} Pack {pack_id}".format(sticker_pack_name=app_pack.get('name').capitalize(), pack_id=sticker_pack.get('id'))
