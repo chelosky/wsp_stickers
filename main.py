@@ -38,7 +38,7 @@ def generate_data(redisClient):
             sticker_pack['name'] = name
             pack_id =  "{sticker_pack_name}-{pack_id}".format(sticker_pack_name=app_pack.get('name').lower(), pack_id=sticker_pack.get('id'))
             sticker_pack['packId'] = pack_id
-            sticker_pack['active'] = pack_id in DEACTIVATED_PACKS 
+            sticker_pack['active'] = pack_id not in DEACTIVATED_PACKS 
             sticker_pack['id'] =  int(sticker_pack.get('id'))
         
             total_downloads = redisClient.get('{key}-{id}'.format(key=REDIS_PREFIX_KEYS['download-count'], id=pack_id))
