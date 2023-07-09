@@ -11,6 +11,8 @@ REDIS_PREFIX_KEYS = {
     'review-sum': 'rev-sum',
     'download-count': 'download'
 }
+DEACTIVATED_PACKS = ['nagatoro-4']
+
 ANIMATED_PACK_FILE_NAME = 'is_animated.dmy'
 STICKER_FOLDER = 'stickers';
 JSON_FILE_NAME = 'data.json'
@@ -30,13 +32,13 @@ def generate_data(redisClient):
             icon = '/'.join([base_sticker_url, 'icon.png'])
             sticker_pack['stickers'] = sorted(stickers, key=lambda x: int(x.get('url').split('/')[-1].split('.')[0]))
             sticker_pack['icon'] = icon
-            sticker_pack['active'] = True
             sticker_pack['version'] = version if version != None else '1.0.0'
             sticker_pack['animated'] = os.path.isfile(os.path.join(sticker_pack.get('path'), ANIMATED_PACK_FILE_NAME))
             name = "{sticker_pack_name} Pack {pack_id}".format(sticker_pack_name=app_pack.get('name').capitalize(), pack_id=sticker_pack.get('id'))
             sticker_pack['name'] = name
             pack_id =  "{sticker_pack_name}-{pack_id}".format(sticker_pack_name=app_pack.get('name').lower(), pack_id=sticker_pack.get('id'))
             sticker_pack['packId'] = pack_id
+            sticker_pack['active'] = pack_id in DEACTIVATED_PACKS 
             sticker_pack['id'] =  int(sticker_pack.get('id'))
         
             total_downloads = redisClient.get('{key}-{id}'.format(key=REDIS_PREFIX_KEYS['download-count'], id=pack_id))
