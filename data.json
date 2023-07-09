@@ -481,9 +481,9 @@
                 "name": "Nagatoro Pack 5",
                 "packId": "nagatoro-5",
                 "downloads": 20,
-                "voteCount": 0,
-                "voteSum": 0,
-                "voteAverage": 0.0
+                "voteCount": 1,
+                "voteSum": 3,
+                "voteAverage": 3.0
             },
             {
                 "id": 6,
@@ -574,10 +574,10 @@
                 "animated": false,
                 "name": "Nagatoro Pack 6",
                 "packId": "nagatoro-6",
-                "downloads": 4,
-                "voteCount": 1,
-                "voteSum": 3,
-                "voteAverage": 3.0
+                "downloads": 15,
+                "voteCount": 3,
+                "voteSum": 13,
+                "voteAverage": 4.3
             },
             {
                 "id": 7,
