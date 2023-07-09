@@ -11,7 +11,7 @@ REDIS_PREFIX_KEYS = {
     'review-sum': 'rev-sum',
     'download-count': 'download'
 }
-DEACTIVATED_PACKS = ['nagatoro-4']
+DEACTIVATED_PACKS = []
 
 ANIMATED_PACK_FILE_NAME = 'is_animated.dmy'
 STICKER_FOLDER = 'stickers';
