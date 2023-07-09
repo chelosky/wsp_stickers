@@ -87,7 +87,7 @@
     "animated": false,
     "name": "Nagatoro Pack 2",
     "packId": "nagatoro-2",
-    "active": false,
+    "active": true,
     "downloads": 5,
     "voteCount": 24,
     "voteSum": 73,
