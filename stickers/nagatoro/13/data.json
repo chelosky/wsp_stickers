@@ -83,11 +83,11 @@
         }
     ],
     "icon": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/13/icon.png",
-    "active": true,
     "version": "1.0.0",
     "animated": false,
     "name": "Nagatoro Pack 13",
     "packId": "nagatoro-13",
+    "active": false,
     "downloads": 0,
     "voteCount": 1,
     "voteSum": 5,
