@@ -23,6 +23,7 @@
         }
     ],
     "icon": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/16/icon.png",
+    "active": true,
     "version": "1.0.0",
     "animated": true,
     "name": "Nagatoro Pack 16",
