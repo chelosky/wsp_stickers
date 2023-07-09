@@ -82,5 +82,5 @@ def generate_redis_connection():
 
 if __name__ == '__main__':
     redis = generate_redis_connection()
-    response = generate_data(redis)
-    generate_json_file('.', response)
+    data = generate_data(redis)
+    generate_json_file('.', data)
