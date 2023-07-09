@@ -45,7 +45,7 @@ def generate_data(redisClient):
             sticker_pack['downloads'] = int(total_downloads) if total_downloads != None else 0
             sticker_pack['voteCount'] = int(total_votes) if total_votes != None else 0
             sticker_pack['voteSum'] = int(sum_votes) if total_votes != None else 0
-            sticker_pack['voteAverage'] = float(sticker_pack['voteSum'])/(int(total_votes) if total_votes != None else 1)
+            sticker_pack['voteAverage'] = round(float(sticker_pack['voteSum'])/(int(total_votes) if total_votes != None else 1), 1)
             file_path = sticker_pack.get('path')
             del sticker_pack['path']
             generate_json_file(file_path, sticker_pack)
