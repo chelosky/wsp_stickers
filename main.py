@@ -1,6 +1,10 @@
-import redis
-import json
+from dotenv import load_dotenv
+from datetime import datetime
 import os
+import json
+import redis
+
+load_dotenv()
 
 BASE_URL = 'https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers';
 STICKERS_NAME = {
@@ -11,10 +15,16 @@ REDIS_PREFIX_KEYS = {
     'review-sum': 'rev-sum',
     'download-count': 'download'
 }
-DEACTIVATED_PACKS = []
+DEFAULT_PACK_INFO_VALUES = {
+    'active': False,
+    'animated': False,
+    'description': 'Nagatoro Pack',
+    'version': '1.0.0',
+    'lastChangedAt': datetime.now().strftime('%Y-%m-%dT%H:%M:%S.%f%z')
+}
 
-ANIMATED_PACK_FILE_NAME = 'is_animated.dmy'
 STICKER_FOLDER = 'stickers';
+PACK_INFO_FILE_NAME = 'pack_info.json'
 JSON_FILE_NAME = 'data.json'
 folder_path = "{os_path}/{sticker_folder}".format(os_path=os.getcwd(), sticker_folder=STICKER_FOLDER)
 
@@ -26,20 +36,24 @@ def generate_data(redisClient):
         sticker_packs = sorted(unsorted_sticker_packs,key=lambda x: int(x.get('id')))
         
         for sticker_pack in sticker_packs:
+            file_path = sticker_pack.get('path')
+            del sticker_pack['path']
+            pacK_info = get_pack_information(file_path)
             base_sticker_url = '/'.join([BASE_URL, app_pack.get('name'), sticker_pack.get('id')])
-            version = next(iter([ name.replace('.version', '') for name in os.listdir(sticker_pack.get('path')) if name.endswith('.version')]), None)
-            stickers = [ { 'url': '/'.join([base_sticker_url, name]), 'size': os.stat(os.path.join(sticker_pack.get('path'), name)).st_size } for name in os.listdir(sticker_pack.get('path')) if name.endswith(".webp")]
+            version = next(iter([ name.replace('.version', '') for name in os.listdir(file_path) if name.endswith('.version')]), None)
+            stickers = [ { 'url': '/'.join([base_sticker_url, name]), 'size': os.stat(os.path.join(file_path, name)).st_size } for name in os.listdir(file_path) if name.endswith(".webp")]
             icon = '/'.join([base_sticker_url, 'icon.png'])
             sticker_pack['stickers'] = sorted(stickers, key=lambda x: int(x.get('url').split('/')[-1].split('.')[0]))
             sticker_pack['icon'] = icon
-            sticker_pack['version'] = version if version != None else '1.0.0'
-            sticker_pack['animated'] = os.path.isfile(os.path.join(sticker_pack.get('path'), ANIMATED_PACK_FILE_NAME))
+            sticker_pack['version'] = pacK_info.get('version')
+            sticker_pack['animated'] = pacK_info.get('animated')
             name = "{sticker_pack_name} Pack {pack_id}".format(sticker_pack_name=app_pack.get('name').capitalize(), pack_id=sticker_pack.get('id'))
             sticker_pack['name'] = name
             pack_id =  "{sticker_pack_name}-{pack_id}".format(sticker_pack_name=app_pack.get('name').lower(), pack_id=sticker_pack.get('id'))
             sticker_pack['packId'] = pack_id
-            sticker_pack['active'] = pack_id not in DEACTIVATED_PACKS 
-            sticker_pack['id'] =  int(sticker_pack.get('id'))
+            sticker_pack['active'] = pacK_info.get('active')
+            sticker_pack['lastChangedAt'] = pacK_info.get('lastChangedAt')
+            sticker_pack['id'] =  sticker_pack.get('id')
         
             total_downloads = redisClient.get('{key}-{id}'.format(key=REDIS_PREFIX_KEYS['download-count'], id=pack_id))
             total_votes = redisClient.get('{key}-{id}'.format(key=REDIS_PREFIX_KEYS['review-count'], id=pack_id))
@@ -49,8 +63,6 @@ def generate_data(redisClient):
             sticker_pack['voteCount'] = int(total_votes) if total_votes != None else 0
             sticker_pack['voteSum'] = int(sum_votes) if total_votes != None else 0
             sticker_pack['voteAverage'] = round(float(sticker_pack['voteSum'])/(int(total_votes) if total_votes != None else 1), 1)
-            file_path = sticker_pack.get('path')
-            del sticker_pack['path']
             generate_json_file(file_path, sticker_pack)
 
         app_pack['id'] = app_pack.get('name')
@@ -73,6 +85,24 @@ def map_to_app_file(data):
 def generate_json_file(path, data, file_name = JSON_FILE_NAME):
     with open(os.path.join(path, file_name), "w") as outfile:
         outfile.write(json.dumps(data, indent=4))
+
+def get_pack_information(path, file_name = PACK_INFO_FILE_NAME):
+    file_path = os.path.join(path, file_name)
+    pack_info = DEFAULT_PACK_INFO_VALUES;
+
+    if not (os.path.isfile(file_path)):
+        return pack_info
+
+    with open(file_path, 'r') as f:
+        pack_info = json.load(f)
+    
+    return {
+        'active': pack_info.get('active') if pack_info.get('active') != None else DEFAULT_PACK_INFO_VALUES.get('active'),
+        'version': pack_info.get('version') if pack_info.get('version') != None else DEFAULT_PACK_INFO_VALUES.get('version'),
+        'animated': pack_info.get('animated') if pack_info.get('animated') != None else DEFAULT_PACK_INFO_VALUES.get('animated'),
+        'description': pack_info.get('description') if pack_info.get('description') != None else DEFAULT_PACK_INFO_VALUES.get('description'),
+        'lastChangedAt': pack_info.get('lastChangedAt') if pack_info.get('lastChangedAt') != None else DEFAULT_PACK_INFO_VALUES.get('lastChangedAt')
+    }
 
 def generate_redis_connection():
     return redis.Redis(
