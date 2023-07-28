@@ -3,7 +3,7 @@
     "id": "nagatoro",
     "packs": [
         {
-            "id": 1,
+            "id": "1",
             "stickers": [
                 {
                     "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/1/1.webp",
@@ -27,18 +27,19 @@
                 }
             ],
             "icon": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/1/icon.png",
-            "version": "1.0.2",
+            "version": "1.0.0",
             "animated": false,
             "name": "Nagatoro Pack 1",
             "packId": "nagatoro-1",
             "active": true,
+            "lastChangedAt": "2023-07-28T18:35:22.753855",
             "downloads": 17,
             "voteCount": 21,
             "voteSum": 82,
             "voteAverage": 3.9
         },
         {
-            "id": 2,
+            "id": "2",
             "stickers": [
                 {
                     "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/2/1.webp",
@@ -67,13 +68,14 @@
             "name": "Nagatoro Pack 2",
             "packId": "nagatoro-2",
             "active": true,
+            "lastChangedAt": "2023-07-28T18:35:22.753855",
             "downloads": 6,
             "voteCount": 26,
             "voteSum": 81,
             "voteAverage": 3.1
         },
         {
-            "id": 3,
+            "id": "3",
             "stickers": [
                 {
                     "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/3/1.webp",
@@ -102,13 +104,14 @@
             "name": "Nagatoro Pack 3",
             "packId": "nagatoro-3",
             "active": true,
+            "lastChangedAt": "2023-07-28T18:35:22.753855",
             "downloads": 2,
             "voteCount": 2,
             "voteSum": 7,
             "voteAverage": 3.5
         },
         {
-            "id": 4,
+            "id": "4",
             "stickers": [
                 {
                     "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/4/1.webp",
@@ -137,13 +140,14 @@
             "name": "Nagatoro Pack 4",
             "packId": "nagatoro-4",
             "active": true,
+            "lastChangedAt": "2023-07-28T18:35:22.753855",
             "downloads": 10,
             "voteCount": 1,
             "voteSum": 3,
             "voteAverage": 3.0
         },
         {
-            "id": 5,
+            "id": "5",
             "stickers": [
                 {
                     "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/5/1.webp",
@@ -172,13 +176,14 @@
             "name": "Nagatoro Pack 5",
             "packId": "nagatoro-5",
             "active": true,
+            "lastChangedAt": "2023-07-28T18:35:22.753855",
             "downloads": 27,
             "voteCount": 5,
             "voteSum": 19,
             "voteAverage": 3.8
         },
         {
-            "id": 6,
+            "id": "6",
             "stickers": [
                 {
                     "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/6/1.webp",
@@ -207,13 +212,14 @@
             "name": "Nagatoro Pack 6",
             "packId": "nagatoro-6",
             "active": true,
+            "lastChangedAt": "2023-07-28T18:35:22.753855",
             "downloads": 16,
             "voteCount": 3,
             "voteSum": 13,
             "voteAverage": 4.3
         },
         {
-            "id": 7,
+            "id": "7",
             "stickers": [
                 {
                     "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/7/1.webp",
@@ -242,13 +248,14 @@
             "name": "Nagatoro Pack 7",
             "packId": "nagatoro-7",
             "active": true,
+            "lastChangedAt": "2023-07-28T18:35:22.753855",
             "downloads": 2,
             "voteCount": 0,
             "voteSum": 0,
             "voteAverage": 0.0
         },
         {
-            "id": 8,
+            "id": "8",
             "stickers": [
                 {
                     "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/8/1.webp",
@@ -277,13 +284,14 @@
             "name": "Nagatoro Pack 8",
             "packId": "nagatoro-8",
             "active": true,
+            "lastChangedAt": "2023-07-28T18:35:22.753855",
             "downloads": 0,
             "voteCount": 0,
             "voteSum": 0,
             "voteAverage": 0.0
         },
         {
-            "id": 9,
+            "id": "9",
             "stickers": [
                 {
                     "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/9/1.webp",
@@ -312,13 +320,14 @@
             "name": "Nagatoro Pack 9",
             "packId": "nagatoro-9",
             "active": true,
+            "lastChangedAt": "2023-07-28T18:35:22.753855",
             "downloads": 1,
             "voteCount": 1,
             "voteSum": 5,
             "voteAverage": 5.0
         },
         {
-            "id": 10,
+            "id": "10",
             "stickers": [
                 {
                     "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/10/1.webp",
@@ -347,13 +356,14 @@
             "name": "Nagatoro Pack 10",
             "packId": "nagatoro-10",
             "active": true,
+            "lastChangedAt": "2023-07-28T18:35:22.753855",
             "downloads": 2,
             "voteCount": 0,
             "voteSum": 0,
             "voteAverage": 0.0
         },
         {
-            "id": 11,
+            "id": "11",
             "stickers": [
                 {
                     "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/11/1.webp",
@@ -382,13 +392,14 @@
             "name": "Nagatoro Pack 11",
             "packId": "nagatoro-11",
             "active": true,
+            "lastChangedAt": "2023-07-28T18:35:22.753855",
             "downloads": 2,
             "voteCount": 1,
             "voteSum": 5,
             "voteAverage": 5.0
         },
         {
-            "id": 12,
+            "id": "12",
             "stickers": [
                 {
                     "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/12/1.webp",
@@ -417,13 +428,14 @@
             "name": "Nagatoro Pack 12",
             "packId": "nagatoro-12",
             "active": true,
+            "lastChangedAt": "2023-07-28T18:35:22.753855",
             "downloads": 1,
             "voteCount": 0,
             "voteSum": 0,
             "voteAverage": 0.0
         },
         {
-            "id": 13,
+            "id": "13",
             "stickers": [
                 {
                     "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/13/1.webp",
@@ -452,13 +464,14 @@
             "name": "Nagatoro Pack 13",
             "packId": "nagatoro-13",
             "active": true,
+            "lastChangedAt": "2023-07-28T18:35:22.753855",
             "downloads": 0,
             "voteCount": 1,
             "voteSum": 5,
             "voteAverage": 5.0
         },
         {
-            "id": 14,
+            "id": "14",
             "stickers": [
                 {
                     "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/14/1.webp",
@@ -487,13 +500,14 @@
             "name": "Nagatoro Pack 14",
             "packId": "nagatoro-14",
             "active": true,
+            "lastChangedAt": "2023-07-28T18:35:22.753855",
             "downloads": 0,
             "voteCount": 0,
             "voteSum": 0,
             "voteAverage": 0.0
         },
         {
-            "id": 15,
+            "id": "15",
             "stickers": [
                 {
                     "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/15/1.webp",
@@ -522,13 +536,14 @@
             "name": "Nagatoro Pack 15",
             "packId": "nagatoro-15",
             "active": true,
+            "lastChangedAt": "2023-07-28T18:35:22.753855",
             "downloads": 0,
             "voteCount": 1,
             "voteSum": 1,
             "voteAverage": 1.0
         },
         {
-            "id": 16,
+            "id": "16",
             "stickers": [
                 {
                     "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/16/1.webp",
@@ -557,6 +572,7 @@
             "name": "Nagatoro Pack 16",
             "packId": "nagatoro-16",
             "active": true,
+            "lastChangedAt": "2023-07-28T18:35:22.753855",
             "downloads": 1,
             "voteCount": 1,
             "voteSum": 5,

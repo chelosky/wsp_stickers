@@ -1,5 +1,5 @@
 {
-    "id": 5,
+    "id": "5",
     "stickers": [
         {
             "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/5/1.webp",
@@ -88,6 +88,7 @@
     "name": "Nagatoro Pack 5",
     "packId": "nagatoro-5",
     "active": true,
+    "lastChangedAt": "2023-07-28T18:35:22.753855",
     "downloads": 27,
     "voteCount": 5,
     "voteSum": 19,
