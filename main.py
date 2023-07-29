@@ -29,7 +29,7 @@ JSON_FILE_NAME = 'data.json'
 folder_path = "{os_path}/{sticker_folder}".format(os_path=os.getcwd(), sticker_folder=STICKER_FOLDER)
 
 def generate_data(redisClient):
-    app_packs = [{ 'path': os.path.join(folder_path, name), 'name': name } for name in os.listdir(folder_path) if os.path.isdir(os.path.join(folder_path, name))]
+    app_packs = [{ 'path': os.path.join(folder_path, name), 'id': id } for id in os.listdir(folder_path) if os.path.isdir(os.path.join(folder_path, id))]
 
     for app_pack in app_packs:
         unsorted_sticker_packs =[{ 'path': os.path.join(app_pack.get('path'), name), 'id': name } for name in os.listdir(app_pack.get('path')) if os.path.isdir(os.path.join(app_pack.get('path'), name))]
@@ -67,8 +67,8 @@ def generate_data(redisClient):
 
         original_sticker_packs = list(sticker_packs)
         app_pack['packs'] = list(map(map_to_app_file, sticker_packs))
-        app_pack['name'] = STICKERS_NAME.get(app_pack.get('name'))
-        app_pack['id'] = app_pack.get('name')
+        app_pack['name'] = STICKERS_NAME.get(app_pack.get('id'))
+        app_pack['id'] = app_pack.get('id')
         app_pack_path = app_pack.get('path')
         del app_pack['path']
         generate_json_file(app_pack_path, app_pack)
