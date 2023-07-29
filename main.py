@@ -29,7 +29,7 @@ JSON_FILE_NAME = 'data.json'
 folder_path = "{os_path}/{sticker_folder}".format(os_path=os.getcwd(), sticker_folder=STICKER_FOLDER)
 
 def generate_data(redisClient):
-    app_packs = [{ 'path': os.path.join(folder_path, name), 'id': id } for id in os.listdir(folder_path) if os.path.isdir(os.path.join(folder_path, id))]
+    app_packs = [{ 'path': os.path.join(folder_path, name), 'id': name } for name in os.listdir(folder_path) if os.path.isdir(os.path.join(folder_path, name))]
 
     for app_pack in app_packs:
         unsorted_sticker_packs =[{ 'path': os.path.join(app_pack.get('path'), name), 'id': name } for name in os.listdir(app_pack.get('path')) if os.path.isdir(os.path.join(app_pack.get('path'), name))]
@@ -39,13 +39,13 @@ def generate_data(redisClient):
             file_path = sticker_pack.get('path')
             del sticker_pack['path']
 
-            base_sticker_url = '/'.join([BASE_URL, app_pack.get('name'), sticker_pack.get('id')])
+            base_sticker_url = '/'.join([BASE_URL, app_pack.get('id'), sticker_pack.get('id')])
             stickers = [ { 'url': '/'.join([base_sticker_url, name]), 'size': os.stat(os.path.join(file_path, name)).st_size } for name in os.listdir(file_path) if name.endswith(".webp")]
             sticker_pack['stickers'] = sorted(stickers, key=lambda x: int(x.get('url').split('/')[-1].split('.')[0]))
             icon = '/'.join([base_sticker_url, 'icon.png'])
             sticker_pack['icon'] = icon
 
-            pack_info = get_pack_information(file_path, app_pack.get('name'), sticker_pack.get('id'))
+            pack_info = get_pack_information(file_path, app_pack.get('id'), sticker_pack.get('id'))
             sticker_pack['lastChangedAt'] = pack_info.get('lastChangedAt')
             sticker_pack['animated'] = pack_info.get('animated')
             sticker_pack['packId'] = pack_info.get('packId')
