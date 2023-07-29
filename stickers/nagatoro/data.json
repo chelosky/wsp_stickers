@@ -1,5 +1,5 @@
 {
-    "name": "Please Don't Bully Me, Nagatoro",
+    "id": "nagatoro",
     "packs": [
         {
             "id": "1",
@@ -578,5 +578,5 @@
             "voteAverage": 5.0
         }
     ],
-    "id": "Please Don't Bully Me, Nagatoro"
+    "name": "Please Don't Bully Me, Nagatoro"
 }
