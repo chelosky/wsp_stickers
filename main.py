@@ -38,37 +38,37 @@ def generate_data(redisClient):
         for sticker_pack in sticker_packs:
             file_path = sticker_pack.get('path')
             del sticker_pack['path']
-            pacK_info = get_pack_information(file_path)
+
             base_sticker_url = '/'.join([BASE_URL, app_pack.get('name'), sticker_pack.get('id')])
-            version = next(iter([ name.replace('.version', '') for name in os.listdir(file_path) if name.endswith('.version')]), None)
             stickers = [ { 'url': '/'.join([base_sticker_url, name]), 'size': os.stat(os.path.join(file_path, name)).st_size } for name in os.listdir(file_path) if name.endswith(".webp")]
-            icon = '/'.join([base_sticker_url, 'icon.png'])
             sticker_pack['stickers'] = sorted(stickers, key=lambda x: int(x.get('url').split('/')[-1].split('.')[0]))
+            icon = '/'.join([base_sticker_url, 'icon.png'])
             sticker_pack['icon'] = icon
-            sticker_pack['version'] = pacK_info.get('version')
-            sticker_pack['animated'] = pacK_info.get('animated')
-            name = "{sticker_pack_name} Pack {pack_id}".format(sticker_pack_name=app_pack.get('name').capitalize(), pack_id=sticker_pack.get('id'))
-            sticker_pack['name'] = name
-            pack_id =  "{sticker_pack_name}-{pack_id}".format(sticker_pack_name=app_pack.get('name').lower(), pack_id=sticker_pack.get('id'))
-            sticker_pack['packId'] = pack_id
-            sticker_pack['active'] = pacK_info.get('active')
-            sticker_pack['lastChangedAt'] = pacK_info.get('lastChangedAt')
-            sticker_pack['id'] =  sticker_pack.get('id')
+
+            pack_info = get_pack_information(file_path, app_pack.get('name'), sticker_pack.get('id'))
+            sticker_pack['lastChangedAt'] = pack_info.get('lastChangedAt')
+            sticker_pack['animated'] = pack_info.get('animated')
+            sticker_pack['packId'] = pack_info.get('packId')
+            sticker_pack['version'] = pack_info.get('version')
+            sticker_pack['active'] = pack_info.get('active')
+            sticker_pack['name'] = pack_info.get('name')
+            sticker_pack['id'] =  pack_info.get('id')
         
-            total_downloads = redisClient.get('{key}-{id}'.format(key=REDIS_PREFIX_KEYS['download-count'], id=pack_id))
-            total_votes = redisClient.get('{key}-{id}'.format(key=REDIS_PREFIX_KEYS['review-count'], id=pack_id))
-            sum_votes = redisClient.get('{key}-{id}'.format(key=REDIS_PREFIX_KEYS['review-sum'], id=pack_id))
+            total_downloads = redisClient.get('{key}-{id}'.format(key=REDIS_PREFIX_KEYS['download-count'], id=pack_info.get('packId')))
+            total_votes = redisClient.get('{key}-{id}'.format(key=REDIS_PREFIX_KEYS['review-count'], id=pack_info.get('packId')))
+            sum_votes = redisClient.get('{key}-{id}'.format(key=REDIS_PREFIX_KEYS['review-sum'], id=pack_info.get('packId')))
 
             sticker_pack['downloads'] = int(total_downloads) if total_downloads != None else 0
             sticker_pack['voteCount'] = int(total_votes) if total_votes != None else 0
             sticker_pack['voteSum'] = int(sum_votes) if total_votes != None else 0
             sticker_pack['voteAverage'] = round(float(sticker_pack['voteSum'])/(int(total_votes) if total_votes != None else 1), 1)
+
             generate_json_file(file_path, sticker_pack)
 
-        app_pack['id'] = app_pack.get('name')
-        app_pack['name'] = STICKERS_NAME.get(app_pack.get('name'))
         original_sticker_packs = list(sticker_packs)
         app_pack['packs'] = list(map(map_to_app_file, sticker_packs))
+        app_pack['name'] = STICKERS_NAME.get(app_pack.get('name'))
+        app_pack['id'] = app_pack.get('name')
         app_pack_path = app_pack.get('path')
         del app_pack['path']
         generate_json_file(app_pack_path, app_pack)
@@ -86,17 +86,20 @@ def generate_json_file(path, data, file_name = JSON_FILE_NAME):
     with open(os.path.join(path, file_name), "w") as outfile:
         outfile.write(json.dumps(data, indent=4))
 
-def get_pack_information(path, file_name = PACK_INFO_FILE_NAME):
+def get_pack_information(path, sticker_pack_name, pack_id, file_name = PACK_INFO_FILE_NAME):
     file_path = os.path.join(path, file_name)
     pack_info = DEFAULT_PACK_INFO_VALUES;
+    default_name = "{sticker_pack_name} Pack {pack_id}".format(sticker_pack_name=sticker_pack_name.capitalize(), pack_id=pack_id)
+    default_pack_id =  "{sticker_pack_name}-{pack_id}".format(sticker_pack_name=sticker_pack_name.lower(), pack_id=pack_id)
 
-    if not (os.path.isfile(file_path)):
-        return pack_info
+    if (os.path.isfile(file_path)):
+        with open(file_path, 'r') as f:
+            pack_info = json.load(f)
 
-    with open(file_path, 'r') as f:
-        pack_info = json.load(f)
-    
     return {
+        'id': pack_id,
+        'name': pack_info.get('name') if pack_info.get('name') != None else default_name,
+        'packId': pack_info.get('packId') if pack_info.get('packId') != None else default_pack_id,
         'active': pack_info.get('active') if pack_info.get('active') != None else DEFAULT_PACK_INFO_VALUES.get('active'),
         'version': pack_info.get('version') if pack_info.get('version') != None else DEFAULT_PACK_INFO_VALUES.get('version'),
         'animated': pack_info.get('animated') if pack_info.get('animated') != None else DEFAULT_PACK_INFO_VALUES.get('animated'),
