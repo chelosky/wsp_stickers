@@ -95,9 +95,9 @@
                 "active": true,
                 "lastChangedAt": "2023-07-28T18:35:22.753855",
                 "downloads": 17,
-                "voteCount": 21,
-                "voteSum": 82,
-                "voteAverage": 3.9
+                "voteCount": 22,
+                "voteSum": 87,
+                "voteAverage": 4.0
             },
             {
                 "id": "2",
@@ -1489,7 +1489,7 @@
                 "name": "Nagatoro Pack 16",
                 "packId": "nagatoro-16",
                 "active": true,
-                "lastChangedAt": "2023-07-28T18:35:22.753855",
+                "lastChangedAt": "2023-07-30T18:35:22.753855",
                 "downloads": 1,
                 "voteCount": 1,
                 "voteSum": 5,
