@@ -321,9 +321,9 @@
             "active": true,
             "name": "Legacy Pack 9",
             "downloads": 1,
-            "voteCount": 1,
-            "voteSum": 5,
-            "voteAverage": 5.0
+            "voteCount": 2,
+            "voteSum": 6,
+            "voteAverage": 3.0
         },
         {
             "id": "10",
@@ -608,7 +608,7 @@
             "version": "0.6.0",
             "active": true,
             "name": "Animated Pack 2",
-            "downloads": 0,
+            "downloads": 1,
             "voteCount": 0,
             "voteSum": 0,
             "voteAverage": 0.0
