@@ -612,6 +612,78 @@
             "voteCount": 1,
             "voteSum": 4,
             "voteAverage": 4.0
+        },
+        {
+            "id": "18",
+            "stickers": [
+                {
+                    "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/18/1.webp",
+                    "size": 42420
+                },
+                {
+                    "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/18/2.webp",
+                    "size": 15186
+                },
+                {
+                    "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/18/3.webp",
+                    "size": 8982
+                },
+                {
+                    "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/18/4.webp",
+                    "size": 8658
+                },
+                {
+                    "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/18/5.webp",
+                    "size": 6950
+                }
+            ],
+            "icon": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/18/icon.png",
+            "lastChangedAt": "2023-08-02T15:35:22.753855",
+            "animated": false,
+            "packId": "nagatoro-18",
+            "version": "1.0.0",
+            "active": true,
+            "name": "Manga Chapter 1 - Part 1",
+            "downloads": 0,
+            "voteCount": 0,
+            "voteSum": 0,
+            "voteAverage": 0.0
+        },
+        {
+            "id": "19",
+            "stickers": [
+                {
+                    "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/19/1.webp",
+                    "size": 27572
+                },
+                {
+                    "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/19/2.webp",
+                    "size": 18276
+                },
+                {
+                    "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/19/3.webp",
+                    "size": 34944
+                },
+                {
+                    "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/19/4.webp",
+                    "size": 26328
+                },
+                {
+                    "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/19/5.webp",
+                    "size": 30396
+                }
+            ],
+            "icon": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/19/icon.png",
+            "lastChangedAt": "2023-08-02T15:35:22.753855",
+            "animated": false,
+            "packId": "nagatoro-19",
+            "version": "1.0.0",
+            "active": true,
+            "name": "Manga Chapter 1 - Part 2",
+            "downloads": 0,
+            "voteCount": 0,
+            "voteSum": 0,
+            "voteAverage": 0.0
         }
     ],
     "name": "Please Don't Bully Me, Nagatoro"
