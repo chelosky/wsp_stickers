@@ -176,7 +176,7 @@
             "version": "1.0.0",
             "active": true,
             "name": "Legacy Pack 5",
-            "downloads": 27,
+            "downloads": 28,
             "voteCount": 5,
             "voteSum": 19,
             "voteAverage": 3.8
@@ -681,9 +681,9 @@
             "active": true,
             "name": "Manga Chapter 1 - Part 2",
             "downloads": 3,
-            "voteCount": 0,
-            "voteSum": 0,
-            "voteAverage": 0.0
+            "voteCount": 1,
+            "voteSum": 4,
+            "voteAverage": 4.0
         }
     ],
     "name": "Please Don't Bully Me, Nagatoro"
