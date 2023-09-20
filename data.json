@@ -1354,9 +1354,9 @@
                 "active": true,
                 "name": "Legacy Pack 14",
                 "downloads": 0,
-                "voteCount": 0,
-                "voteSum": 0,
-                "voteAverage": 0.0
+                "voteCount": 1,
+                "voteSum": 5,
+                "voteAverage": 5.0
             },
             {
                 "id": "15",
