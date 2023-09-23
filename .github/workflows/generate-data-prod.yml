@@ -31,6 +31,7 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           if [[ `git status --porcelain` ]]; then
+            git checkout main
             git add .
             git commit -m ":sparkles: generate new version of the data.json file"
             git push
