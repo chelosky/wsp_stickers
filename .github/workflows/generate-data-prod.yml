@@ -7,6 +7,7 @@ on:
     branches: [ "main" ]
 
 env:
+  BRANCH_URL_PREFIX: main
   REDIS_HOST: ${{secrets.REDIS_HOST}}
   REDIS_PORT: ${{secrets.REDIS_PORT}}
   REDIS_USERNAME: ${{secrets.REDIS_USERNAME}}

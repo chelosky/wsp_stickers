@@ -6,7 +6,8 @@ import redis
 
 load_dotenv()
 
-BASE_URL = 'https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers';
+BASE_URL = "https://raw.githubusercontent.com/chelosky/wsp_stickers/{branch_url_prefix}/stickers".format(branch_url_prefix=os.environ["BRANCH_URL_PREFIX"])
+
 STICKERS_NAME = {
     'nagatoro': "Please Don't Bully Me, Nagatoro"
 }
