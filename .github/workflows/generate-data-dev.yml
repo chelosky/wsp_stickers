@@ -1,0 +1,38 @@
+name: Generate data json
+
+on:
+  push:
+    branches: [ "dev" ]
+
+env:
+  REDIS_HOST: ${{secrets.REDIS_HOST}}
+  REDIS_PORT: ${{secrets.REDIS_PORT}}
+  REDIS_USERNAME: ${{secrets.REDIS_USERNAME}}
+  REDIS_PASSWORD: ${{secrets.REDIS_PASSWORD}}
+
+jobs:
+  generate-data-file:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout repo content
+        uses: actions/checkout@v3
+      - name: setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.8 
+      - name: Install dependencies
+        run: |
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+      - name: execute py script
+        run: |
+          python main.py
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          if [[ `git status --porcelain` ]]; then
+            git checkout dev
+            git add .
+            git commit -m ":sparkles: generate new version of the data.json file"
+            git push
+          else
+            echo "The data is the same. Nothing to commit."
+          fi
