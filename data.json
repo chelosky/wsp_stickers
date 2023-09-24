@@ -1707,7 +1707,7 @@
                 "animated": false,
                 "packId": "nagatoro-19",
                 "version": "1.0.0",
-                "active": false,
+                "active": true,
                 "name": "Manga Chapter One - Pt 2",
                 "downloads": 10,
                 "voteCount": 1,
