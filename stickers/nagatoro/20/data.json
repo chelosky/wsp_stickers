@@ -39,7 +39,7 @@
         },
         {
             "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/20/10.webp",
-            "size": 7372
+            "size": 17078
         },
         {
             "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/20/11.webp",
@@ -51,7 +51,7 @@
         },
         {
             "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/20/13.webp",
-            "size": 73148
+            "size": 36800
         },
         {
             "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/20/14.webp",
@@ -85,7 +85,7 @@
     "version": "1.0.0",
     "active": true,
     "name": "Manga Chapter 2 - Pt 1",
-    "downloads": 0,
+    "downloads": 1,
     "voteCount": 0,
     "voteSum": 0,
     "voteAverage": 0.0
