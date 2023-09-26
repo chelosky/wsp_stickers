@@ -1,5 +1,9 @@
 # Whatsapp stickers hosting
 
+## Details
+
+- icon.png: max size 50kb and 96x96
+
 ## Convert png to webp
 
 Use the Image Magick software to do it
@@ -11,6 +15,10 @@ https://github.com/ImageMagick/ImageMagick
 #### Generate all images png to webp
 
 magick mogrify -format webp *.png
+
+### Reduce Size png
+
+magick convert icon.png -resize 96x96 -quality 75 output.png
 
 #### Transform gif to pngs
 
@@ -30,3 +38,4 @@ magick convert -resize 512x512 -dispose Previous  x0.png x1.png -loop 0 anim1.gi
 - https://stackoverflow.com/questions/51830740/imagemagick-gif-and-overlaying-png-image
 - https://github.com/ImageMagick/ImageMagick/issues/6479
 - https://stackoverflow.com/questions/49591274/cli-command-to-convert-webp-images-to-jpg
+- https://www.smashingmagazine.com/2015/06/efficient-image-resizing-with-imagemagick/
