@@ -689,34 +689,34 @@
             "id": "20",
             "stickers": [
                 {
-                    "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/20/1.webp",
+                    "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/20/1.webp",
                     "size": 23284
                 },
                 {
-                    "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/20/2.webp",
+                    "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/20/2.webp",
                     "size": 14186
                 },
                 {
-                    "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/20/3.webp",
+                    "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/20/3.webp",
                     "size": 12262
                 },
                 {
-                    "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/20/4.webp",
+                    "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/20/4.webp",
                     "size": 9398
                 },
                 {
-                    "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/20/5.webp",
+                    "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/20/5.webp",
                     "size": 8672
                 }
             ],
-            "icon": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/20/icon.png",
+            "icon": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/20/icon.png",
             "lastChangedAt": "2023-09-25T15:36:22.753855",
             "animated": false,
             "packId": "nagatoro-20",
             "version": "1.0.0",
             "active": true,
             "name": "Manga Chapter 2 - Pt 1",
-            "downloads": 1,
+            "downloads": 2,
             "voteCount": 0,
             "voteSum": 0,
             "voteAverage": 0.0
@@ -725,27 +725,27 @@
             "id": "21",
             "stickers": [
                 {
-                    "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/21/1.webp",
+                    "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/21/1.webp",
                     "size": 19432
                 },
                 {
-                    "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/21/2.webp",
+                    "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/21/2.webp",
                     "size": 32278
                 },
                 {
-                    "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/21/3.webp",
+                    "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/21/3.webp",
                     "size": 18400
                 },
                 {
-                    "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/21/4.webp",
+                    "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/21/4.webp",
                     "size": 9830
                 },
                 {
-                    "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/21/5.webp",
+                    "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/21/5.webp",
                     "size": 21292
                 }
             ],
-            "icon": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/21/icon.png",
+            "icon": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/21/icon.png",
             "lastChangedAt": "2023-09-25T17:36:22.753855",
             "animated": false,
             "packId": "nagatoro-21",
