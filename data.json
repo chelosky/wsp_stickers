@@ -285,7 +285,7 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Legacy Pack 3",
-                "downloads": 12,
+                "downloads": 13,
                 "voteCount": 2,
                 "voteSum": 7,
                 "voteAverage": 3.5
@@ -585,7 +585,7 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Legacy Pack 6",
-                "downloads": 22,
+                "downloads": 23,
                 "voteCount": 3,
                 "voteSum": 13,
                 "voteAverage": 4.3
@@ -777,7 +777,7 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Legacy Pack 8",
-                "downloads": 5,
+                "downloads": 6,
                 "voteCount": 0,
                 "voteSum": 0,
                 "voteAverage": 0.0
@@ -1505,7 +1505,7 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Animated Pack 1",
-                "downloads": 15,
+                "downloads": 17,
                 "voteCount": 4,
                 "voteSum": 20,
                 "voteAverage": 5.0
@@ -1557,7 +1557,7 @@
                 "version": "0.6.0",
                 "active": true,
                 "name": "Animated Pack 2",
-                "downloads": 27,
+                "downloads": 30,
                 "voteCount": 9,
                 "voteSum": 39,
                 "voteAverage": 4.3
@@ -1633,7 +1633,7 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Manga Chapter 1 - Pt 1",
-                "downloads": 9,
+                "downloads": 10,
                 "voteCount": 1,
                 "voteSum": 3,
                 "voteAverage": 3.0
@@ -1709,7 +1709,7 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Manga Chapter 1 - Pt 2",
-                "downloads": 10,
+                "downloads": 12,
                 "voteCount": 1,
                 "voteSum": 4,
                 "voteAverage": 4.0
@@ -1801,10 +1801,10 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Manga Chapter 2 - Pt 1",
-                "downloads": 2,
-                "voteCount": 0,
-                "voteSum": 0,
-                "voteAverage": 0.0
+                "downloads": 7,
+                "voteCount": 1,
+                "voteSum": 4,
+                "voteAverage": 4.0
             },
             {
                 "id": "21",
@@ -1893,7 +1893,139 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Manga Chapter 2 - Pt 2",
-                "downloads": 1,
+                "downloads": 10,
+                "voteCount": 0,
+                "voteSum": 0,
+                "voteAverage": 0.0
+            },
+            {
+                "id": "22",
+                "stickers": [
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/22/1.webp",
+                        "size": 10132
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/22/2.webp",
+                        "size": 9232
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/22/3.webp",
+                        "size": 12334
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/22/4.webp",
+                        "size": 12330
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/22/5.webp",
+                        "size": 15226
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/22/6.webp",
+                        "size": 24634
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/22/7.webp",
+                        "size": 10484
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/22/8.webp",
+                        "size": 23644
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/22/9.webp",
+                        "size": 28292
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/22/10.webp",
+                        "size": 20418
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/22/11.webp",
+                        "size": 15014
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/22/12.webp",
+                        "size": 27522
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/22/13.webp",
+                        "size": 28466
+                    }
+                ],
+                "icon": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/22/icon.png",
+                "lastChangedAt": "2023-09-26T17:36:22.753855",
+                "animated": false,
+                "packId": "nagatoro-22",
+                "version": "1.0.0",
+                "active": true,
+                "name": "Manga Chapter 3 - Pt 1",
+                "downloads": 0,
+                "voteCount": 0,
+                "voteSum": 0,
+                "voteAverage": 0.0
+            },
+            {
+                "id": "23",
+                "stickers": [
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/23/1.webp",
+                        "size": 20776
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/23/2.webp",
+                        "size": 23038
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/23/3.webp",
+                        "size": 18034
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/23/4.webp",
+                        "size": 14408
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/23/5.webp",
+                        "size": 20994
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/23/6.webp",
+                        "size": 21388
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/23/7.webp",
+                        "size": 18094
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/23/8.webp",
+                        "size": 10710
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/23/9.webp",
+                        "size": 26822
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/23/10.webp",
+                        "size": 13394
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/23/11.webp",
+                        "size": 10538
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/23/12.webp",
+                        "size": 14762
+                    }
+                ],
+                "icon": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/23/icon.png",
+                "lastChangedAt": "2023-09-26T17:36:22.753855",
+                "animated": false,
+                "packId": "nagatoro-23",
+                "version": "1.0.0",
+                "active": true,
+                "name": "Manga Chapter 3 - Pt 2",
+                "downloads": 0,
                 "voteCount": 0,
                 "voteSum": 0,
                 "voteAverage": 0.0
