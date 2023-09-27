@@ -18,7 +18,7 @@ magick mogrify -format webp *.png
 
 ### Reduce Size png
 
-magick convert icon.png -resize 96x96 -quality 75 output.png
+magick convert icon.png -resize 96x96 -quality 75 icon.png
 
 #### Transform gif to pngs
 
