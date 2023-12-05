@@ -104,7 +104,7 @@
             "version": "1.0.0",
             "active": true,
             "name": "Legacy Pack 3",
-            "downloads": 157,
+            "downloads": 158,
             "voteCount": 4,
             "voteSum": 17,
             "voteAverage": 4.2
@@ -140,10 +140,10 @@
             "version": "1.0.0",
             "active": true,
             "name": "Legacy Pack 4",
-            "downloads": 128,
-            "voteCount": 2,
-            "voteSum": 8,
-            "voteAverage": 4.0
+            "downloads": 129,
+            "voteCount": 3,
+            "voteSum": 13,
+            "voteAverage": 4.3
         },
         {
             "id": "5",
@@ -572,9 +572,9 @@
             "version": "1.0.0",
             "active": true,
             "name": "Animated Pack 1",
-            "downloads": 284,
-            "voteCount": 7,
-            "voteSum": 35,
+            "downloads": 286,
+            "voteCount": 8,
+            "voteSum": 40,
             "voteAverage": 5.0
         },
         {
@@ -608,9 +608,9 @@
             "version": "0.6.0",
             "active": true,
             "name": "Animated Pack 2",
-            "downloads": 352,
-            "voteCount": 15,
-            "voteSum": 69,
+            "downloads": 353,
+            "voteCount": 16,
+            "voteSum": 74,
             "voteAverage": 4.6
         },
         {
@@ -680,10 +680,10 @@
             "version": "1.0.0",
             "active": true,
             "name": "Manga Chapter 1 - Pt 2",
-            "downloads": 180,
-            "voteCount": 2,
-            "voteSum": 8,
-            "voteAverage": 4.0
+            "downloads": 181,
+            "voteCount": 3,
+            "voteSum": 13,
+            "voteAverage": 4.3
         },
         {
             "id": "20",
@@ -716,10 +716,10 @@
             "version": "1.0.0",
             "active": true,
             "name": "Manga Chapter 2 - Pt 1",
-            "downloads": 196,
-            "voteCount": 2,
-            "voteSum": 7,
-            "voteAverage": 3.5
+            "downloads": 197,
+            "voteCount": 3,
+            "voteSum": 12,
+            "voteAverage": 4.0
         },
         {
             "id": "21",
@@ -752,10 +752,10 @@
             "version": "1.0.0",
             "active": true,
             "name": "Manga Chapter 2 - Pt 2",
-            "downloads": 231,
-            "voteCount": 4,
-            "voteSum": 18,
-            "voteAverage": 4.5
+            "downloads": 232,
+            "voteCount": 5,
+            "voteSum": 23,
+            "voteAverage": 4.6
         }
     ],
     "name": "Please Don't Bully Me, Nagatoro"
