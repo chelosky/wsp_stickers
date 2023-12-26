@@ -573,8 +573,8 @@
             "active": true,
             "name": "Animated Pack 1",
             "downloads": 428,
-            "voteCount": 9,
-            "voteSum": 45,
+            "voteCount": 10,
+            "voteSum": 50,
             "voteAverage": 5.0
         },
         {
@@ -645,9 +645,9 @@
             "active": true,
             "name": "Manga Chapter 1 - Pt 1",
             "downloads": 227,
-            "voteCount": 5,
-            "voteSum": 20,
-            "voteAverage": 4.0
+            "voteCount": 6,
+            "voteSum": 25,
+            "voteAverage": 4.2
         },
         {
             "id": "19",
