@@ -93,9 +93,9 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Legacy Pack 1",
-                "downloads": 47,
-                "voteCount": 23,
-                "voteSum": 91,
+                "downloads": 271,
+                "voteCount": 27,
+                "voteSum": 109,
                 "voteAverage": 4.0
             },
             {
@@ -189,7 +189,7 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Legacy Pack 2",
-                "downloads": 34,
+                "downloads": 215,
                 "voteCount": 26,
                 "voteSum": 81,
                 "voteAverage": 3.1
@@ -285,10 +285,10 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Legacy Pack 3",
-                "downloads": 35,
-                "voteCount": 3,
-                "voteSum": 12,
-                "voteAverage": 4.0
+                "downloads": 245,
+                "voteCount": 4,
+                "voteSum": 17,
+                "voteAverage": 4.2
             },
             {
                 "id": "4",
@@ -393,10 +393,10 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Legacy Pack 4",
-                "downloads": 33,
-                "voteCount": 2,
-                "voteSum": 8,
-                "voteAverage": 4.0
+                "downloads": 197,
+                "voteCount": 4,
+                "voteSum": 18,
+                "voteAverage": 4.5
             },
             {
                 "id": "5",
@@ -489,7 +489,7 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Legacy Pack 5",
-                "downloads": 53,
+                "downloads": 197,
                 "voteCount": 6,
                 "voteSum": 24,
                 "voteAverage": 4.0
@@ -585,10 +585,10 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Legacy Pack 6",
-                "downloads": 39,
-                "voteCount": 3,
-                "voteSum": 13,
-                "voteAverage": 4.3
+                "downloads": 217,
+                "voteCount": 4,
+                "voteSum": 18,
+                "voteAverage": 4.5
             },
             {
                 "id": "7",
@@ -681,9 +681,9 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Legacy Pack 7",
-                "downloads": 20,
-                "voteCount": 1,
-                "voteSum": 4,
+                "downloads": 188,
+                "voteCount": 5,
+                "voteSum": 20,
                 "voteAverage": 4.0
             },
             {
@@ -777,7 +777,7 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Legacy Pack 8",
-                "downloads": 31,
+                "downloads": 181,
                 "voteCount": 1,
                 "voteSum": 5,
                 "voteAverage": 5.0
@@ -873,9 +873,9 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Legacy Pack 9",
-                "downloads": 22,
-                "voteCount": 2,
-                "voteSum": 6,
+                "downloads": 167,
+                "voteCount": 4,
+                "voteSum": 12,
                 "voteAverage": 3.0
             },
             {
@@ -969,7 +969,7 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Legacy Pack 10",
-                "downloads": 24,
+                "downloads": 175,
                 "voteCount": 0,
                 "voteSum": 0,
                 "voteAverage": 0.0
@@ -1065,7 +1065,7 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Legacy Pack 11",
-                "downloads": 22,
+                "downloads": 155,
                 "voteCount": 1,
                 "voteSum": 5,
                 "voteAverage": 5.0
@@ -1161,7 +1161,7 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Legacy Pack 12",
-                "downloads": 23,
+                "downloads": 162,
                 "voteCount": 0,
                 "voteSum": 0,
                 "voteAverage": 0.0
@@ -1257,9 +1257,9 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Legacy Pack 13",
-                "downloads": 23,
-                "voteCount": 1,
-                "voteSum": 5,
+                "downloads": 158,
+                "voteCount": 2,
+                "voteSum": 10,
                 "voteAverage": 5.0
             },
             {
@@ -1353,7 +1353,7 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Legacy Pack 14",
-                "downloads": 23,
+                "downloads": 159,
                 "voteCount": 1,
                 "voteSum": 5,
                 "voteAverage": 5.0
@@ -1453,7 +1453,7 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Legacy Pack 15",
-                "downloads": 27,
+                "downloads": 213,
                 "voteCount": 4,
                 "voteSum": 16,
                 "voteAverage": 4.0
@@ -1505,9 +1505,9 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Animated Pack 1",
-                "downloads": 62,
-                "voteCount": 5,
-                "voteSum": 25,
+                "downloads": 445,
+                "voteCount": 10,
+                "voteSum": 50,
                 "voteAverage": 5.0
             },
             {
@@ -1557,10 +1557,10 @@
                 "version": "0.6.0",
                 "active": true,
                 "name": "Animated Pack 2",
-                "downloads": 84,
-                "voteCount": 10,
-                "voteSum": 44,
-                "voteAverage": 4.4
+                "downloads": 549,
+                "voteCount": 20,
+                "voteSum": 89,
+                "voteAverage": 4.5
             },
             {
                 "id": "18",
@@ -1633,10 +1633,10 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Manga Chapter 1 - Pt 1",
-                "downloads": 31,
-                "voteCount": 5,
-                "voteSum": 20,
-                "voteAverage": 4.0
+                "downloads": 232,
+                "voteCount": 6,
+                "voteSum": 25,
+                "voteAverage": 4.2
             },
             {
                 "id": "19",
@@ -1709,10 +1709,10 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Manga Chapter 1 - Pt 2",
-                "downloads": 47,
-                "voteCount": 2,
-                "voteSum": 8,
-                "voteAverage": 4.0
+                "downloads": 281,
+                "voteCount": 3,
+                "voteSum": 13,
+                "voteAverage": 4.3
             },
             {
                 "id": "20",
@@ -1801,10 +1801,10 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Manga Chapter 2 - Pt 1",
-                "downloads": 31,
-                "voteCount": 2,
-                "voteSum": 7,
-                "voteAverage": 3.5
+                "downloads": 323,
+                "voteCount": 8,
+                "voteSum": 33,
+                "voteAverage": 4.1
             },
             {
                 "id": "21",
@@ -1893,10 +1893,10 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Manga Chapter 2 - Pt 2",
-                "downloads": 41,
-                "voteCount": 2,
-                "voteSum": 9,
-                "voteAverage": 4.5
+                "downloads": 368,
+                "voteCount": 5,
+                "voteSum": 23,
+                "voteAverage": 4.6
             },
             {
                 "id": "22",
@@ -1961,10 +1961,10 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Manga Chapter 3 - Pt 1",
-                "downloads": 2,
-                "voteCount": 0,
-                "voteSum": 0,
-                "voteAverage": 0.0
+                "downloads": 3,
+                "voteCount": 2,
+                "voteSum": 9,
+                "voteAverage": 4.5
             },
             {
                 "id": "23",
@@ -2026,6 +2026,146 @@
                 "active": true,
                 "name": "Manga Chapter 3 - Pt 2",
                 "downloads": 2,
+                "voteCount": 1,
+                "voteSum": 3,
+                "voteAverage": 3.0
+            },
+            {
+                "id": "24",
+                "stickers": [
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/24/1.webp",
+                        "size": 22456
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/24/2.webp",
+                        "size": 17542
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/24/3.webp",
+                        "size": 7598
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/24/4.webp",
+                        "size": 7980
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/24/5.webp",
+                        "size": 19288
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/24/6.webp",
+                        "size": 14000
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/24/7.webp",
+                        "size": 27662
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/24/8.webp",
+                        "size": 26582
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/24/9.webp",
+                        "size": 27628
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/24/10.webp",
+                        "size": 32898
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/24/11.webp",
+                        "size": 17674
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/24/12.webp",
+                        "size": 9708
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/24/14.webp",
+                        "size": 18610
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/24/15.webp",
+                        "size": 30148
+                    }
+                ],
+                "icon": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/24/icon.png",
+                "lastChangedAt": "2023-12-20T15:36:22.753855",
+                "animated": false,
+                "packId": "nagatoro-24",
+                "version": "1.0.0",
+                "active": true,
+                "name": "Manga Chapter 4 - Pt 1",
+                "downloads": 0,
+                "voteCount": 0,
+                "voteSum": 0,
+                "voteAverage": 0.0
+            },
+            {
+                "id": "25",
+                "stickers": [
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/25/1.webp",
+                        "size": 11518
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/25/2.webp",
+                        "size": 12424
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/25/3.webp",
+                        "size": 31960
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/25/4.webp",
+                        "size": 15570
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/25/5.webp",
+                        "size": 28174
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/25/6.webp",
+                        "size": 14240
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/25/7.webp",
+                        "size": 17790
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/25/8.webp",
+                        "size": 35438
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/25/9.webp",
+                        "size": 14316
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/25/10.webp",
+                        "size": 17206
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/25/11.webp",
+                        "size": 16514
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/25/12.webp",
+                        "size": 26316
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/25/13.webp",
+                        "size": 18102
+                    }
+                ],
+                "icon": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/25/icon.png",
+                "lastChangedAt": "2023-12-20T15:37:22.753855",
+                "animated": false,
+                "packId": "nagatoro-25",
+                "version": "1.0.0",
+                "active": true,
+                "name": "Manga Chapter 4 - Pt 2",
+                "downloads": 0,
                 "voteCount": 0,
                 "voteSum": 0,
                 "voteAverage": 0.0
