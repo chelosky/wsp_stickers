@@ -2,43 +2,43 @@
     "id": "16",
     "stickers": [
         {
-            "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/16/1.webp",
+            "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/16/1.webp",
             "size": 99250
         },
         {
-            "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/16/2.webp",
+            "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/16/2.webp",
             "size": 56254
         },
         {
-            "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/16/3.webp",
+            "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/16/3.webp",
             "size": 59716
         },
         {
-            "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/16/4.webp",
+            "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/16/4.webp",
             "size": 90438
         },
         {
-            "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/16/5.webp",
+            "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/16/5.webp",
             "size": 39634
         },
         {
-            "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/16/6.webp",
+            "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/16/6.webp",
             "size": 301376
         },
         {
-            "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/16/7.webp",
+            "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/16/7.webp",
             "size": 256416
         },
         {
-            "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/16/8.webp",
+            "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/16/8.webp",
             "size": 185114
         },
         {
-            "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/16/9.webp",
+            "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/16/9.webp",
             "size": 218334
         }
     ],
-    "icon": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/16/icon.png",
+    "icon": "https://raw.githubusercontent.com/chelosky/wsp_stickers/main/stickers/nagatoro/16/icon.png",
     "lastChangedAt": "2023-07-30T18:35:22.753855",
     "animated": true,
     "packId": "nagatoro-16",
