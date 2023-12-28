@@ -2327,11 +2327,11 @@
                     },
                     {
                         "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/27/17.webp",
-                        "size": 81100
+                        "size": 16066
                     },
                     {
                         "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/27/18.webp",
-                        "size": 107724
+                        "size": 23356
                     },
                     {
                         "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/27/19.webp",
@@ -2358,8 +2358,8 @@
                 "active": true,
                 "name": "Meme Pack 1",
                 "downloads": 0,
-                "voteCount": 2,
-                "voteSum": 10,
+                "voteCount": 7,
+                "voteSum": 35,
                 "voteAverage": 5.0
             }
         ],
