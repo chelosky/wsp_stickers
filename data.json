@@ -2253,6 +2253,110 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Manga Chapter 5",
+                "downloads": 1,
+                "voteCount": 1,
+                "voteSum": 4,
+                "voteAverage": 4.0
+            },
+            {
+                "id": "27",
+                "stickers": [
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/27/1.webp",
+                        "size": 73748
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/27/2.webp",
+                        "size": 21874
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/27/3.webp",
+                        "size": 26598
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/27/4.webp",
+                        "size": 10724
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/27/5.webp",
+                        "size": 12970
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/27/6.webp",
+                        "size": 18598
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/27/7.webp",
+                        "size": 20944
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/27/8.webp",
+                        "size": 14026
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/27/9.webp",
+                        "size": 19482
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/27/10.webp",
+                        "size": 17336
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/27/11.webp",
+                        "size": 15228
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/27/12.webp",
+                        "size": 28524
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/27/13.webp",
+                        "size": 25558
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/27/14.webp",
+                        "size": 10504
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/27/15.webp",
+                        "size": 20926
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/27/16.webp",
+                        "size": 13136
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/27/17.webp",
+                        "size": 81100
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/27/18.webp",
+                        "size": 107724
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/27/19.webp",
+                        "size": 17294
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/27/20.webp",
+                        "size": 36478
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/27/21.webp",
+                        "size": 34502
+                    },
+                    {
+                        "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/27/22.webp",
+                        "size": 32594
+                    }
+                ],
+                "icon": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/27/icon.png",
+                "lastChangedAt": "2023-12-29T15:38:22.753855",
+                "animated": false,
+                "packId": "nagatoro-27",
+                "version": "1.0.0",
+                "active": true,
+                "name": "Meme Pack 1",
                 "downloads": 0,
                 "voteCount": 0,
                 "voteSum": 0,
