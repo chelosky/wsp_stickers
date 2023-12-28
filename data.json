@@ -2263,7 +2263,7 @@
                 "stickers": [
                     {
                         "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/27/1.webp",
-                        "size": 73748
+                        "size": 24176
                     },
                     {
                         "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/27/2.webp",
@@ -2358,9 +2358,9 @@
                 "active": true,
                 "name": "Meme Pack 1",
                 "downloads": 0,
-                "voteCount": 0,
-                "voteSum": 0,
-                "voteAverage": 0.0
+                "voteCount": 2,
+                "voteSum": 10,
+                "voteAverage": 5.0
             }
         ],
         "name": "Please Don't Bully Me, Nagatoro"
