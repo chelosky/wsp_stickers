@@ -1,0 +1,52 @@
+{
+    "id": "28",
+    "stickers": [
+        {
+            "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/28/1.webp",
+            "size": 29574
+        },
+        {
+            "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/28/2.webp",
+            "size": 27672
+        },
+        {
+            "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/28/3.webp",
+            "size": 47584
+        },
+        {
+            "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/28/4.webp",
+            "size": 51150
+        },
+        {
+            "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/28/5.webp",
+            "size": 119846
+        },
+        {
+            "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/28/6.webp",
+            "size": 29970
+        },
+        {
+            "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/28/7.webp",
+            "size": 270662
+        },
+        {
+            "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/28/8.webp",
+            "size": 351918
+        },
+        {
+            "url": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/28/9.webp",
+            "size": 127424
+        }
+    ],
+    "icon": "https://raw.githubusercontent.com/chelosky/wsp_stickers/dev/stickers/nagatoro/28/icon.png",
+    "lastChangedAt": "2023-12-29T18:35:22.753855",
+    "animated": true,
+    "packId": "nagatoro-28",
+    "version": "0.2.0",
+    "active": true,
+    "name": "Animated Pack 3",
+    "downloads": 0,
+    "voteCount": 0,
+    "voteSum": 0,
+    "voteAverage": 0.0
+}
