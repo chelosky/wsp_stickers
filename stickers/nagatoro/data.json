@@ -428,7 +428,7 @@
             "version": "1.0.0",
             "active": true,
             "name": "Legacy Pack 12",
-            "downloads": 166,
+            "downloads": 167,
             "voteCount": 0,
             "voteSum": 0,
             "voteAverage": 0.0
@@ -464,7 +464,7 @@
             "version": "1.0.0",
             "active": true,
             "name": "Legacy Pack 13",
-            "downloads": 162,
+            "downloads": 169,
             "voteCount": 2,
             "voteSum": 10,
             "voteAverage": 5.0
@@ -500,7 +500,7 @@
             "version": "1.0.0",
             "active": true,
             "name": "Legacy Pack 14",
-            "downloads": 166,
+            "downloads": 170,
             "voteCount": 1,
             "voteSum": 5,
             "voteAverage": 5.0
@@ -536,7 +536,7 @@
             "version": "1.0.0",
             "active": true,
             "name": "Legacy Pack 15",
-            "downloads": 227,
+            "downloads": 232,
             "voteCount": 5,
             "voteSum": 21,
             "voteAverage": 4.2
@@ -861,9 +861,9 @@
             "active": true,
             "name": "Manga Chapter 4 - Pt 1",
             "downloads": 14,
-            "voteCount": 0,
-            "voteSum": 0,
-            "voteAverage": 0.0
+            "voteCount": 1,
+            "voteSum": 5,
+            "voteAverage": 5.0
         },
         {
             "id": "25",
@@ -1004,9 +1004,9 @@
             "version": "0.2.0",
             "active": true,
             "name": "Animated Pack 3",
-            "downloads": 51,
-            "voteCount": 8,
-            "voteSum": 39,
+            "downloads": 55,
+            "voteCount": 12,
+            "voteSum": 59,
             "voteAverage": 4.9
         }
     ],
