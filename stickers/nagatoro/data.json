@@ -68,7 +68,7 @@
             "version": "1.0.0",
             "active": true,
             "name": "Legacy Pack 2",
-            "downloads": 341,
+            "downloads": 342,
             "voteCount": 27,
             "voteSum": 86,
             "voteAverage": 3.2
@@ -104,9 +104,9 @@
             "version": "1.0.0",
             "active": true,
             "name": "Legacy Pack 3",
-            "downloads": 462,
-            "voteCount": 7,
-            "voteSum": 32,
+            "downloads": 468,
+            "voteCount": 8,
+            "voteSum": 37,
             "voteAverage": 4.6
         },
         {
@@ -860,7 +860,7 @@
             "version": "1.0.0",
             "active": true,
             "name": "Manga Chapter 4 - Pt 1",
-            "downloads": 258,
+            "downloads": 259,
             "voteCount": 3,
             "voteSum": 14,
             "voteAverage": 4.7
@@ -932,7 +932,7 @@
             "version": "1.0.0",
             "active": true,
             "name": "Manga Chapter 5",
-            "downloads": 353,
+            "downloads": 354,
             "voteCount": 5,
             "voteSum": 24,
             "voteAverage": 4.8
@@ -968,7 +968,7 @@
             "version": "1.0.0",
             "active": true,
             "name": "Meme Pack 1",
-            "downloads": 496,
+            "downloads": 497,
             "voteCount": 22,
             "voteSum": 107,
             "voteAverage": 4.9
@@ -1004,10 +1004,10 @@
             "version": "0.2.0",
             "active": true,
             "name": "Animated Pack 3",
-            "downloads": 620,
-            "voteCount": 34,
-            "voteSum": 158,
-            "voteAverage": 4.6
+            "downloads": 623,
+            "voteCount": 35,
+            "voteSum": 163,
+            "voteAverage": 4.7
         }
     ],
     "name": "Please Don't Bully Me, Nagatoro"
