@@ -1162,8 +1162,8 @@
                 "active": true,
                 "name": "Legacy Pack 12",
                 "downloads": 305,
-                "voteCount": 3,
-                "voteSum": 15,
+                "voteCount": 4,
+                "voteSum": 20,
                 "voteAverage": 5.0
             },
             {
@@ -1958,9 +1958,9 @@
                 "active": true,
                 "name": "Manga Chapter 3 - Pt 1",
                 "downloads": 272,
-                "voteCount": 4,
-                "voteSum": 19,
-                "voteAverage": 4.8
+                "voteCount": 5,
+                "voteSum": 23,
+                "voteAverage": 4.6
             },
             {
                 "id": "23",
@@ -2250,9 +2250,9 @@
                 "active": true,
                 "name": "Manga Chapter 5",
                 "downloads": 376,
-                "voteCount": 5,
-                "voteSum": 24,
-                "voteAverage": 4.8
+                "voteCount": 6,
+                "voteSum": 28,
+                "voteAverage": 4.7
             },
             {
                 "id": "27",
@@ -2354,9 +2354,9 @@
                 "active": true,
                 "name": "Meme Pack 1",
                 "downloads": 527,
-                "voteCount": 22,
-                "voteSum": 107,
-                "voteAverage": 4.9
+                "voteCount": 23,
+                "voteSum": 110,
+                "voteAverage": 4.8
             },
             {
                 "id": "28",
@@ -2406,8 +2406,8 @@
                 "active": true,
                 "name": "Animated Pack 3",
                 "downloads": 664,
-                "voteCount": 35,
-                "voteSum": 163,
+                "voteCount": 36,
+                "voteSum": 168,
                 "voteAverage": 4.7
             }
         ],
