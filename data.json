@@ -1797,7 +1797,7 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Manga Chapter 2 - Pt 1",
-                "downloads": 772,
+                "downloads": 773,
                 "voteCount": 9,
                 "voteSum": 37,
                 "voteAverage": 4.1
@@ -1889,7 +1889,7 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Manga Chapter 2 - Pt 2",
-                "downloads": 747,
+                "downloads": 748,
                 "voteCount": 7,
                 "voteSum": 33,
                 "voteAverage": 4.7
@@ -1957,7 +1957,7 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Manga Chapter 3 - Pt 1",
-                "downloads": 631,
+                "downloads": 632,
                 "voteCount": 8,
                 "voteSum": 33,
                 "voteAverage": 4.1
@@ -2021,7 +2021,7 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Manga Chapter 3 - Pt 2",
-                "downloads": 598,
+                "downloads": 599,
                 "voteCount": 5,
                 "voteSum": 21,
                 "voteAverage": 4.2
@@ -2093,7 +2093,7 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Manga Chapter 4 - Pt 1",
-                "downloads": 643,
+                "downloads": 644,
                 "voteCount": 3,
                 "voteSum": 14,
                 "voteAverage": 4.7
@@ -2161,7 +2161,7 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Manga Chapter 4 - Pt 2",
-                "downloads": 765,
+                "downloads": 766,
                 "voteCount": 3,
                 "voteSum": 15,
                 "voteAverage": 5.0
@@ -2249,10 +2249,10 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Manga Chapter 5",
-                "downloads": 897,
-                "voteCount": 13,
-                "voteSum": 63,
-                "voteAverage": 4.8
+                "downloads": 898,
+                "voteCount": 17,
+                "voteSum": 83,
+                "voteAverage": 4.9
             },
             {
                 "id": "27",
@@ -2353,7 +2353,7 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Meme Pack 1",
-                "downloads": 1177,
+                "downloads": 1178,
                 "voteCount": 27,
                 "voteSum": 130,
                 "voteAverage": 4.8
