@@ -681,10 +681,10 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Legacy Pack 7",
-                "downloads": 719,
-                "voteCount": 7,
-                "voteSum": 29,
-                "voteAverage": 4.1
+                "downloads": 721,
+                "voteCount": 8,
+                "voteSum": 34,
+                "voteAverage": 4.2
             },
             {
                 "id": "8",
@@ -777,7 +777,7 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Legacy Pack 8",
-                "downloads": 596,
+                "downloads": 597,
                 "voteCount": 1,
                 "voteSum": 5,
                 "voteAverage": 5.0
@@ -873,7 +873,7 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Legacy Pack 9",
-                "downloads": 549,
+                "downloads": 550,
                 "voteCount": 4,
                 "voteSum": 12,
                 "voteAverage": 3.0
@@ -969,7 +969,7 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Legacy Pack 10",
-                "downloads": 526,
+                "downloads": 527,
                 "voteCount": 1,
                 "voteSum": 5,
                 "voteAverage": 5.0
@@ -1065,7 +1065,7 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Legacy Pack 11",
-                "downloads": 494,
+                "downloads": 495,
                 "voteCount": 1,
                 "voteSum": 5,
                 "voteAverage": 5.0
@@ -1161,7 +1161,7 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Legacy Pack 12",
-                "downloads": 541,
+                "downloads": 542,
                 "voteCount": 6,
                 "voteSum": 26,
                 "voteAverage": 4.3
@@ -1257,7 +1257,7 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Legacy Pack 13",
-                "downloads": 529,
+                "downloads": 530,
                 "voteCount": 3,
                 "voteSum": 15,
                 "voteAverage": 5.0
@@ -1353,7 +1353,7 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Legacy Pack 14",
-                "downloads": 518,
+                "downloads": 519,
                 "voteCount": 1,
                 "voteSum": 5,
                 "voteAverage": 5.0
@@ -1453,7 +1453,7 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Legacy Pack 15",
-                "downloads": 766,
+                "downloads": 767,
                 "voteCount": 6,
                 "voteSum": 26,
                 "voteAverage": 4.3
@@ -1553,9 +1553,9 @@
                 "version": "0.6.0",
                 "active": true,
                 "name": "Animated Pack 2",
-                "downloads": 1897,
-                "voteCount": 49,
-                "voteSum": 232,
+                "downloads": 1900,
+                "voteCount": 51,
+                "voteSum": 242,
                 "voteAverage": 4.7
             },
             {
