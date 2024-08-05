@@ -778,9 +778,9 @@
                 "active": true,
                 "name": "Legacy Pack 8",
                 "downloads": 711,
-                "voteCount": 1,
-                "voteSum": 5,
-                "voteAverage": 5.0
+                "voteCount": 3,
+                "voteSum": 7,
+                "voteAverage": 2.3
             },
             {
                 "id": "9",
@@ -873,7 +873,7 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Legacy Pack 9",
-                "downloads": 640,
+                "downloads": 641,
                 "voteCount": 4,
                 "voteSum": 12,
                 "voteAverage": 3.0
@@ -969,7 +969,7 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Legacy Pack 10",
-                "downloads": 610,
+                "downloads": 611,
                 "voteCount": 1,
                 "voteSum": 5,
                 "voteAverage": 5.0
@@ -1257,7 +1257,7 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Legacy Pack 13",
-                "downloads": 624,
+                "downloads": 625,
                 "voteCount": 3,
                 "voteSum": 15,
                 "voteAverage": 5.0
@@ -1353,7 +1353,7 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Legacy Pack 14",
-                "downloads": 598,
+                "downloads": 599,
                 "voteCount": 1,
                 "voteSum": 5,
                 "voteAverage": 5.0
@@ -1453,7 +1453,7 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Legacy Pack 15",
-                "downloads": 880,
+                "downloads": 881,
                 "voteCount": 6,
                 "voteSum": 26,
                 "voteAverage": 4.3
@@ -1553,7 +1553,7 @@
                 "version": "0.6.0",
                 "active": true,
                 "name": "Animated Pack 2",
-                "downloads": 2173,
+                "downloads": 2174,
                 "voteCount": 54,
                 "voteSum": 257,
                 "voteAverage": 4.8
@@ -2405,7 +2405,7 @@
                 "version": "0.2.0",
                 "active": true,
                 "name": "Animated Pack 3",
-                "downloads": 1986,
+                "downloads": 1988,
                 "voteCount": 46,
                 "voteSum": 218,
                 "voteAverage": 4.7
