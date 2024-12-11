@@ -752,7 +752,7 @@
             "version": "1.0.0",
             "active": true,
             "name": "Manga Chapter 2 - Pt 2",
-            "downloads": 1192,
+            "downloads": 1193,
             "voteCount": 10,
             "voteSum": 48,
             "voteAverage": 4.8
@@ -788,7 +788,7 @@
             "version": "1.0.0",
             "active": true,
             "name": "Manga Chapter 3 - Pt 1",
-            "downloads": 1356,
+            "downloads": 1358,
             "voteCount": 16,
             "voteSum": 62,
             "voteAverage": 3.9
@@ -824,7 +824,7 @@
             "version": "1.0.0",
             "active": true,
             "name": "Manga Chapter 3 - Pt 2",
-            "downloads": 1255,
+            "downloads": 1257,
             "voteCount": 11,
             "voteSum": 50,
             "voteAverage": 4.5
@@ -860,7 +860,7 @@
             "version": "1.0.0",
             "active": true,
             "name": "Manga Chapter 4 - Pt 1",
-            "downloads": 1344,
+            "downloads": 1347,
             "voteCount": 6,
             "voteSum": 29,
             "voteAverage": 4.8
@@ -896,7 +896,7 @@
             "version": "1.0.0",
             "active": true,
             "name": "Manga Chapter 4 - Pt 2",
-            "downloads": 1624,
+            "downloads": 1626,
             "voteCount": 10,
             "voteSum": 48,
             "voteAverage": 4.8
@@ -932,9 +932,9 @@
             "version": "1.0.0",
             "active": true,
             "name": "Manga Chapter 5",
-            "downloads": 1882,
-            "voteCount": 24,
-            "voteSum": 117,
+            "downloads": 1884,
+            "voteCount": 25,
+            "voteSum": 122,
             "voteAverage": 4.9
         },
         {
@@ -968,10 +968,10 @@
             "version": "1.0.0",
             "active": true,
             "name": "Meme Pack 1",
-            "downloads": 2317,
-            "voteCount": 39,
-            "voteSum": 181,
-            "voteAverage": 4.6
+            "downloads": 2318,
+            "voteCount": 40,
+            "voteSum": 186,
+            "voteAverage": 4.7
         },
         {
             "id": "28",
@@ -1004,9 +1004,9 @@
             "version": "0.2.0",
             "active": true,
             "name": "Animated Pack 3",
-            "downloads": 2766,
-            "voteCount": 60,
-            "voteSum": 285,
+            "downloads": 2768,
+            "voteCount": 61,
+            "voteSum": 290,
             "voteAverage": 4.8
         }
     ],
