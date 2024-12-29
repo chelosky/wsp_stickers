@@ -970,8 +970,8 @@
                 "active": true,
                 "name": "Legacy Pack 10",
                 "downloads": 843,
-                "voteCount": 2,
-                "voteSum": 10,
+                "voteCount": 3,
+                "voteSum": 15,
                 "voteAverage": 5.0
             },
             {
@@ -2249,7 +2249,7 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Manga Chapter 5",
-                "downloads": 1966,
+                "downloads": 1967,
                 "voteCount": 26,
                 "voteSum": 127,
                 "voteAverage": 4.9
