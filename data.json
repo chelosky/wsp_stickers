@@ -1958,9 +1958,9 @@
                 "active": true,
                 "name": "Manga Chapter 3 - Pt 1",
                 "downloads": 1596,
-                "voteCount": 18,
-                "voteSum": 72,
-                "voteAverage": 4.0
+                "voteCount": 19,
+                "voteSum": 77,
+                "voteAverage": 4.1
             },
             {
                 "id": "23",
@@ -2162,8 +2162,8 @@
                 "active": true,
                 "name": "Manga Chapter 4 - Pt 2",
                 "downloads": 1927,
-                "voteCount": 14,
-                "voteSum": 66,
+                "voteCount": 15,
+                "voteSum": 70,
                 "voteAverage": 4.7
             },
             {
@@ -2250,9 +2250,9 @@
                 "active": true,
                 "name": "Manga Chapter 5",
                 "downloads": 2221,
-                "voteCount": 28,
-                "voteSum": 137,
-                "voteAverage": 4.9
+                "voteCount": 29,
+                "voteSum": 140,
+                "voteAverage": 4.8
             },
             {
                 "id": "27",
@@ -2354,9 +2354,9 @@
                 "active": true,
                 "name": "Meme Pack 1",
                 "downloads": 2737,
-                "voteCount": 43,
-                "voteSum": 198,
-                "voteAverage": 4.6
+                "voteCount": 44,
+                "voteSum": 200,
+                "voteAverage": 4.5
             },
             {
                 "id": "28",
@@ -2406,8 +2406,8 @@
                 "active": true,
                 "name": "Animated Pack 3",
                 "downloads": 3280,
-                "voteCount": 74,
-                "voteSum": 347,
+                "voteCount": 75,
+                "voteSum": 349,
                 "voteAverage": 4.7
             }
         ],
