@@ -874,9 +874,9 @@
                 "active": true,
                 "name": "Legacy Pack 9",
                 "downloads": 1024,
-                "voteCount": 6,
-                "voteSum": 22,
-                "voteAverage": 3.7
+                "voteCount": 7,
+                "voteSum": 27,
+                "voteAverage": 3.9
             },
             {
                 "id": "10",
@@ -1553,7 +1553,7 @@
                 "version": "0.6.0",
                 "active": true,
                 "name": "Animated Pack 2",
-                "downloads": 3284,
+                "downloads": 3285,
                 "voteCount": 59,
                 "voteSum": 282,
                 "voteAverage": 4.8
@@ -2249,9 +2249,9 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Manga Chapter 5",
-                "downloads": 2264,
-                "voteCount": 29,
-                "voteSum": 140,
+                "downloads": 2266,
+                "voteCount": 30,
+                "voteSum": 145,
                 "voteAverage": 4.8
             },
             {
@@ -2353,7 +2353,7 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Meme Pack 1",
-                "downloads": 2790,
+                "downloads": 2791,
                 "voteCount": 47,
                 "voteSum": 215,
                 "voteAverage": 4.6
