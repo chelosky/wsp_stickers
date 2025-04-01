@@ -970,9 +970,9 @@
                 "active": true,
                 "name": "Legacy Pack 10",
                 "downloads": 988,
-                "voteCount": 4,
-                "voteSum": 20,
-                "voteAverage": 5.0
+                "voteCount": 6,
+                "voteSum": 23,
+                "voteAverage": 3.8
             },
             {
                 "id": "11",
@@ -1066,9 +1066,9 @@
                 "active": true,
                 "name": "Legacy Pack 11",
                 "downloads": 941,
-                "voteCount": 6,
-                "voteSum": 30,
-                "voteAverage": 5.0
+                "voteCount": 7,
+                "voteSum": 34,
+                "voteAverage": 4.9
             },
             {
                 "id": "12",
@@ -1258,9 +1258,9 @@
                 "active": true,
                 "name": "Legacy Pack 13",
                 "downloads": 976,
-                "voteCount": 6,
-                "voteSum": 30,
-                "voteAverage": 5.0
+                "voteCount": 7,
+                "voteSum": 33,
+                "voteAverage": 4.7
             },
             {
                 "id": "14",
@@ -1454,8 +1454,8 @@
                 "active": true,
                 "name": "Legacy Pack 15",
                 "downloads": 1412,
-                "voteCount": 12,
-                "voteSum": 56,
+                "voteCount": 13,
+                "voteSum": 61,
                 "voteAverage": 4.7
             },
             {
@@ -2354,8 +2354,8 @@
                 "active": true,
                 "name": "Meme Pack 1",
                 "downloads": 2860,
-                "voteCount": 51,
-                "voteSum": 234,
+                "voteCount": 52,
+                "voteSum": 239,
                 "voteAverage": 4.6
             },
             {
@@ -2406,8 +2406,8 @@
                 "active": true,
                 "name": "Animated Pack 3",
                 "downloads": 3415,
-                "voteCount": 76,
-                "voteSum": 354,
+                "voteCount": 77,
+                "voteSum": 359,
                 "voteAverage": 4.7
             }
         ],
