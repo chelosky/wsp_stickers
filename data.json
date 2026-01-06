@@ -1629,7 +1629,7 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Manga Chapter 1 - Pt 1",
-                "downloads": 1328,
+                "downloads": 1329,
                 "voteCount": 12,
                 "voteSum": 49,
                 "voteAverage": 4.1
@@ -2161,7 +2161,7 @@
                 "version": "1.0.0",
                 "active": true,
                 "name": "Manga Chapter 4 - Pt 2",
-                "downloads": 2647,
+                "downloads": 2648,
                 "voteCount": 18,
                 "voteSum": 84,
                 "voteAverage": 4.7
@@ -2250,9 +2250,9 @@
                 "active": true,
                 "name": "Manga Chapter 5",
                 "downloads": 3024,
-                "voteCount": 37,
-                "voteSum": 172,
-                "voteAverage": 4.6
+                "voteCount": 39,
+                "voteSum": 176,
+                "voteAverage": 4.5
             },
             {
                 "id": "27",
@@ -2405,7 +2405,7 @@
                 "version": "0.2.0",
                 "active": true,
                 "name": "Animated Pack 3",
-                "downloads": 4343,
+                "downloads": 4344,
                 "voteCount": 121,
                 "voteSum": 575,
                 "voteAverage": 4.8
