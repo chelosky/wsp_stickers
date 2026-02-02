@@ -753,9 +753,9 @@
             "active": true,
             "name": "Manga Chapter 2 - Pt 2",
             "downloads": 1744,
-            "voteCount": 16,
-            "voteSum": 68,
-            "voteAverage": 4.2
+            "voteCount": 19,
+            "voteSum": 83,
+            "voteAverage": 4.4
         },
         {
             "id": "22",
@@ -1004,7 +1004,7 @@
             "version": "0.2.0",
             "active": true,
             "name": "Animated Pack 3",
-            "downloads": 4433,
+            "downloads": 4434,
             "voteCount": 125,
             "voteSum": 595,
             "voteAverage": 4.8
