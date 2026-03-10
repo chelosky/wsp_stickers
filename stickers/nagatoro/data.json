@@ -32,9 +32,9 @@
             "version": "1.0.0",
             "active": true,
             "name": "Legacy Pack 1",
-            "downloads": 1988,
-            "voteCount": 40,
-            "voteSum": 166,
+            "downloads": 1989,
+            "voteCount": 42,
+            "voteSum": 176,
             "voteAverage": 4.2
         },
         {
@@ -69,9 +69,9 @@
             "active": true,
             "name": "Legacy Pack 2",
             "downloads": 1349,
-            "voteCount": 38,
-            "voteSum": 139,
-            "voteAverage": 3.7
+            "voteCount": 53,
+            "voteSum": 214,
+            "voteAverage": 4.0
         },
         {
             "id": "3",
@@ -105,8 +105,8 @@
             "active": true,
             "name": "Legacy Pack 3",
             "downloads": 2266,
-            "voteCount": 21,
-            "voteSum": 96,
+            "voteCount": 22,
+            "voteSum": 101,
             "voteAverage": 4.6
         },
         {
@@ -212,7 +212,7 @@
             "version": "1.0.0",
             "active": true,
             "name": "Legacy Pack 6",
-            "downloads": 2037,
+            "downloads": 2038,
             "voteCount": 21,
             "voteSum": 101,
             "voteAverage": 4.8
@@ -284,7 +284,7 @@
             "version": "1.0.0",
             "active": true,
             "name": "Legacy Pack 8",
-            "downloads": 1518,
+            "downloads": 1519,
             "voteCount": 9,
             "voteSum": 29,
             "voteAverage": 3.2
@@ -573,8 +573,8 @@
             "active": true,
             "name": "Animated Pack 1",
             "downloads": 3444,
-            "voteCount": 43,
-            "voteSum": 184,
+            "voteCount": 44,
+            "voteSum": 189,
             "voteAverage": 4.3
         },
         {
@@ -609,8 +609,8 @@
             "active": true,
             "name": "Animated Pack 2",
             "downloads": 4414,
-            "voteCount": 77,
-            "voteSum": 366,
+            "voteCount": 78,
+            "voteSum": 371,
             "voteAverage": 4.8
         },
         {
@@ -645,8 +645,8 @@
             "active": true,
             "name": "Manga Chapter 1 - Pt 1",
             "downloads": 1384,
-            "voteCount": 13,
-            "voteSum": 54,
+            "voteCount": 14,
+            "voteSum": 59,
             "voteAverage": 4.2
         },
         {
@@ -681,8 +681,8 @@
             "active": true,
             "name": "Manga Chapter 1 - Pt 2",
             "downloads": 1721,
-            "voteCount": 20,
-            "voteSum": 89,
+            "voteCount": 22,
+            "voteSum": 99,
             "voteAverage": 4.5
         },
         {
@@ -717,8 +717,8 @@
             "active": true,
             "name": "Manga Chapter 2 - Pt 1",
             "downloads": 1845,
-            "voteCount": 15,
-            "voteSum": 67,
+            "voteCount": 16,
+            "voteSum": 72,
             "voteAverage": 4.5
         },
         {
@@ -753,8 +753,8 @@
             "active": true,
             "name": "Manga Chapter 2 - Pt 2",
             "downloads": 1768,
-            "voteCount": 21,
-            "voteSum": 90,
+            "voteCount": 22,
+            "voteSum": 95,
             "voteAverage": 4.3
         },
         {
@@ -789,8 +789,8 @@
             "active": true,
             "name": "Manga Chapter 3 - Pt 1",
             "downloads": 2263,
-            "voteCount": 30,
-            "voteSum": 113,
+            "voteCount": 31,
+            "voteSum": 118,
             "voteAverage": 3.8
         },
         {
@@ -825,9 +825,9 @@
             "active": true,
             "name": "Manga Chapter 3 - Pt 2",
             "downloads": 2149,
-            "voteCount": 14,
-            "voteSum": 65,
-            "voteAverage": 4.6
+            "voteCount": 101,
+            "voteSum": 500,
+            "voteAverage": 5.0
         },
         {
             "id": "24",
@@ -861,8 +861,8 @@
             "active": true,
             "name": "Manga Chapter 4 - Pt 1",
             "downloads": 2266,
-            "voteCount": 15,
-            "voteSum": 73,
+            "voteCount": 20,
+            "voteSum": 98,
             "voteAverage": 4.9
         },
         {
@@ -933,9 +933,9 @@
             "active": true,
             "name": "Manga Chapter 5",
             "downloads": 3164,
-            "voteCount": 42,
-            "voteSum": 191,
-            "voteAverage": 4.5
+            "voteCount": 43,
+            "voteSum": 196,
+            "voteAverage": 4.6
         },
         {
             "id": "27",
@@ -969,8 +969,8 @@
             "active": true,
             "name": "Meme Pack 1",
             "downloads": 3925,
-            "voteCount": 81,
-            "voteSum": 358,
+            "voteCount": 82,
+            "voteSum": 363,
             "voteAverage": 4.4
         },
         {
@@ -1005,8 +1005,8 @@
             "active": true,
             "name": "Animated Pack 3",
             "downloads": 4537,
-            "voteCount": 130,
-            "voteSum": 619,
+            "voteCount": 131,
+            "voteSum": 624,
             "voteAverage": 4.8
         }
     ],
