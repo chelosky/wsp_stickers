@@ -32,7 +32,7 @@
             "version": "1.0.0",
             "active": true,
             "name": "Legacy Pack 1",
-            "downloads": 1998,
+            "downloads": 1999,
             "voteCount": 42,
             "voteSum": 176,
             "voteAverage": 4.2
@@ -104,7 +104,7 @@
             "version": "1.0.0",
             "active": true,
             "name": "Legacy Pack 3",
-            "downloads": 2274,
+            "downloads": 2275,
             "voteCount": 22,
             "voteSum": 101,
             "voteAverage": 4.6
@@ -176,7 +176,7 @@
             "version": "1.0.0",
             "active": true,
             "name": "Legacy Pack 5",
-            "downloads": 1575,
+            "downloads": 1576,
             "voteCount": 12,
             "voteSum": 52,
             "voteAverage": 4.3
@@ -248,7 +248,7 @@
             "version": "1.0.0",
             "active": true,
             "name": "Legacy Pack 7",
-            "downloads": 1848,
+            "downloads": 1849,
             "voteCount": 12,
             "voteSum": 54,
             "voteAverage": 4.5
@@ -284,7 +284,7 @@
             "version": "1.0.0",
             "active": true,
             "name": "Legacy Pack 8",
-            "downloads": 1524,
+            "downloads": 1525,
             "voteCount": 28,
             "voteSum": 124,
             "voteAverage": 4.4
@@ -320,7 +320,7 @@
             "version": "1.0.0",
             "active": true,
             "name": "Legacy Pack 9",
-            "downloads": 1378,
+            "downloads": 1379,
             "voteCount": 8,
             "voteSum": 32,
             "voteAverage": 4.0
@@ -356,7 +356,7 @@
             "version": "1.0.0",
             "active": true,
             "name": "Legacy Pack 10",
-            "downloads": 1337,
+            "downloads": 1338,
             "voteCount": 8,
             "voteSum": 33,
             "voteAverage": 4.1
@@ -392,7 +392,7 @@
             "version": "1.0.0",
             "active": true,
             "name": "Legacy Pack 11",
-            "downloads": 1219,
+            "downloads": 1220,
             "voteCount": 8,
             "voteSum": 39,
             "voteAverage": 4.9
@@ -428,7 +428,7 @@
             "version": "1.0.0",
             "active": true,
             "name": "Legacy Pack 12",
-            "downloads": 1385,
+            "downloads": 1386,
             "voteCount": 13,
             "voteSum": 59,
             "voteAverage": 4.5
@@ -464,7 +464,7 @@
             "version": "1.0.0",
             "active": true,
             "name": "Legacy Pack 13",
-            "downloads": 1262,
+            "downloads": 1263,
             "voteCount": 10,
             "voteSum": 46,
             "voteAverage": 4.6
@@ -500,7 +500,7 @@
             "version": "1.0.0",
             "active": true,
             "name": "Legacy Pack 14",
-            "downloads": 1297,
+            "downloads": 1298,
             "voteCount": 4,
             "voteSum": 16,
             "voteAverage": 4.0
@@ -536,7 +536,7 @@
             "version": "1.0.0",
             "active": true,
             "name": "Legacy Pack 15",
-            "downloads": 1857,
+            "downloads": 1858,
             "voteCount": 22,
             "voteSum": 105,
             "voteAverage": 4.8
@@ -680,7 +680,7 @@
             "version": "1.0.0",
             "active": true,
             "name": "Manga Chapter 1 - Pt 2",
-            "downloads": 1727,
+            "downloads": 1728,
             "voteCount": 22,
             "voteSum": 99,
             "voteAverage": 4.5
@@ -716,7 +716,7 @@
             "version": "1.0.0",
             "active": true,
             "name": "Manga Chapter 2 - Pt 1",
-            "downloads": 1852,
+            "downloads": 1853,
             "voteCount": 16,
             "voteSum": 72,
             "voteAverage": 4.5
@@ -752,7 +752,7 @@
             "version": "1.0.0",
             "active": true,
             "name": "Manga Chapter 2 - Pt 2",
-            "downloads": 1773,
+            "downloads": 1774,
             "voteCount": 22,
             "voteSum": 95,
             "voteAverage": 4.3
@@ -788,7 +788,7 @@
             "version": "1.0.0",
             "active": true,
             "name": "Manga Chapter 3 - Pt 1",
-            "downloads": 2270,
+            "downloads": 2271,
             "voteCount": 31,
             "voteSum": 118,
             "voteAverage": 3.8
@@ -824,7 +824,7 @@
             "version": "1.0.0",
             "active": true,
             "name": "Manga Chapter 3 - Pt 2",
-            "downloads": 2157,
+            "downloads": 2158,
             "voteCount": 102,
             "voteSum": 505,
             "voteAverage": 5.0
@@ -860,7 +860,7 @@
             "version": "1.0.0",
             "active": true,
             "name": "Manga Chapter 4 - Pt 1",
-            "downloads": 2276,
+            "downloads": 2277,
             "voteCount": 38,
             "voteSum": 168,
             "voteAverage": 4.4
@@ -896,7 +896,7 @@
             "version": "1.0.0",
             "active": true,
             "name": "Manga Chapter 4 - Pt 2",
-            "downloads": 2803,
+            "downloads": 2804,
             "voteCount": 20,
             "voteSum": 94,
             "voteAverage": 4.7
@@ -932,7 +932,7 @@
             "version": "1.0.0",
             "active": true,
             "name": "Manga Chapter 5",
-            "downloads": 3174,
+            "downloads": 3175,
             "voteCount": 43,
             "voteSum": 196,
             "voteAverage": 4.6
@@ -1004,7 +1004,7 @@
             "version": "0.2.0",
             "active": true,
             "name": "Animated Pack 3",
-            "downloads": 4552,
+            "downloads": 4553,
             "voteCount": 131,
             "voteSum": 624,
             "voteAverage": 4.8
