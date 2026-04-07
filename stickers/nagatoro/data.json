@@ -140,7 +140,7 @@
             "version": "1.0.0",
             "active": true,
             "name": "Legacy Pack 4",
-            "downloads": 1528,
+            "downloads": 1529,
             "voteCount": 7,
             "voteSum": 32,
             "voteAverage": 4.6
@@ -212,7 +212,7 @@
             "version": "1.0.0",
             "active": true,
             "name": "Legacy Pack 6",
-            "downloads": 2073,
+            "downloads": 2074,
             "voteCount": 21,
             "voteSum": 101,
             "voteAverage": 4.8
@@ -717,8 +717,8 @@
             "active": true,
             "name": "Manga Chapter 2 - Pt 1",
             "downloads": 1878,
-            "voteCount": 16,
-            "voteSum": 72,
+            "voteCount": 17,
+            "voteSum": 77,
             "voteAverage": 4.5
         },
         {
@@ -933,9 +933,9 @@
             "active": true,
             "name": "Manga Chapter 5",
             "downloads": 3207,
-            "voteCount": 44,
-            "voteSum": 198,
-            "voteAverage": 4.5
+            "voteCount": 45,
+            "voteSum": 200,
+            "voteAverage": 4.4
         },
         {
             "id": "27",
